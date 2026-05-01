@@ -34,3 +34,6 @@ http://181.13.252.102:8000/play/a055/index.m3u8?hls
 #EXTINF:-1 group-title="FULLHD",HBO FAMILY
 http://38.188.48.83:8000/play/a0pq/index.m3u8?hls
 
+
+#EXTINF:-1 group-title="FULLHD",MAGAZINE
+http://45.5.149.220:8000/play/a02p/index.m3u8?hls
