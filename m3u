@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
@@ -63,13 +62,9 @@ http://45.5.149.220:8000/play/a03m/index.m3u8?hls
 #EXTINF:-1 group-title="FULLHD",TNT SPORTS
 http://45.5.149.220:8000/play/a03r/index.m3u8?hls
 
-
-
 #EXTINF:-1 group-title="FULLHD",SONY CHANNEL
 http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 
 #EXTINF:-1 group-title="FULLHD",ESPN COLOMBIA
 http://8.243.70.53:8000/play/a02s/index.m3u8?hls
 
-#EXTINF:-1 group-title="FULLHD",PRUEBA PELI
-http://201.217.246.42:44310/cloud_2/Intercambiados.2026.720.lat.mp4
