@@ -69,5 +69,6 @@ http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 http://38.188.48.83:8000/play/a0qp/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="FULLHD",PELI
-https://r1.dropcdn.io/hls2/03/00009/ysg0zrxfl460_n/index-v1-a1.m3u8?t=syYE-jDghHEVkUlCMlAvFqRZ8wYBocwBDsH-8AgK7Ag&s=1777915003&e=14400&v=2139892&srv=ds2i&i=0.3&sp=3000
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TNT_Sports_Logo.png",TNT
+http://45.5.149.220:8000/play/a03r/index.m3u8?hls
