@@ -51,14 +51,11 @@ http://181.13.252.102:8000/play/a055/index.m3u8?hls
 #EXTINF:-1 group-title="FULLHD",MAGAZINE
 http://181.13.252.102:8000/play/a02h/index.m3u8?hls
 
-#EXTINF:-1 group-title="FULLHD",ESPN PREMIUM
-http://45.5.149.220:8000/play/a03m/index.m3u8?hls
-
-#EXTINF:-1 group-title="FULLHD",TNT SPORTS
-http://45.5.149.220:8000/play/a03r/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4XhpncW/TNT-SPORTS.png",TNT SPORTS OP1
 http://45.5.149.220:8000/play/a03r/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMP7XxL8/ESP-PREMIUM.png",ESPN PREMIUM OP1
+http://45.5.149.220:8000/play/a03m/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWLyrdGn/TOONCAST.jpg",TOONCAST OP1
 http://38.188.48.83:8000/play/a0qp/index.m3u8?hls
