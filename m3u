@@ -49,7 +49,8 @@ http://181.13.252.102:8000/play/a01p/index.m3u8?hls
 http://181.13.252.102:8000/play/a055/index.m3u8?hls
 
 #EXTINF:-1 group-title="FULLHD",HBO FAMILY
-http://8.243.70.53:8000/play/a069/index.m3u8?hls
+http://45.5.149.220:8000/play/a047/index.m3u8?hls
+
 
 #EXTINF:-1 group-title="FULLHD",MAGAZINE
 http://181.13.252.102:8000/play/a02h/index.m3u8?hls
@@ -63,7 +64,5 @@ http://45.5.149.220:8000/play/a03r/index.m3u8?hls
 #EXTINF:-1 group-title="FULLHD",SONY CHANNEL
 http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 
-#EXTINF:-1 group-title="FULLHD",ESPN COLOMBIA
-http://8.243.70.53:8000/play/a02s/index.m3u8?hls
 
 
