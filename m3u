@@ -69,6 +69,6 @@ http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 http://38.188.48.83:8000/play/a0qp/index.m3u8?hls
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TNT_Sports_Logo.png",TNT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B1KNmhC/TNT.jpg",TNT
 http://45.5.149.220:8000/play/a03r/index.m3u8?hls
