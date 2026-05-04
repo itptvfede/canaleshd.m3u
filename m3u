@@ -61,9 +61,6 @@ http://45.5.149.220:8000/play/a03m/index.m3u8?hls
 #EXTINF:-1 group-title="FULLHD",TNT SPORTS
 http://45.5.149.220:8000/play/a03r/index.m3u8?hls
 
-#EXTINF:-1 group-title="FULLHD",SONY CHANNEL
-http://181.13.252.102:8000/play/a05d/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4XhpncW/TNT-SPORTS.png",TNT SPORTS OP1
 http://45.5.149.220:8000/play/a03r/index.m3u8?hls
 
@@ -72,3 +69,6 @@ http://38.188.48.83:8000/play/a0qp/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGMtJwC1/FMH-FAMILY.png",FMH FAMILY OP1
 http://187.102.195.131:8000/play/a01f/index.m3u8
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/XryZ7ykN/SONY-CHANNEL.jpg",SONY CHANNEL OP1
+http://181.13.252.102:8000/play/a05d/index.m3u8?hls
