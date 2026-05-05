@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
@@ -75,6 +73,5 @@ http://45.5.149.220:8000/play/a047/index.m3u8?hls
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7a4fd923ed327756f8dad7a078
 
 
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg",CANAL 26 OP2
-http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/Multivision.720.36948.ts
+http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-26_720.m3u8
