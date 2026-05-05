@@ -72,8 +72,6 @@ http://45.5.149.220:8000/play/a047/index.m3u8?hls
 #EXTINF:-1tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg",CANAL 26 OP2
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7a4fd923ed327756f8dad7a078
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",TELEMUNDO OP2
-http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-26_720.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",MULTIVISION OP2
-http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/Multivision.720.37662.ts
+#EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",TELEMUNDO OP2
+http://38.188.48.83:8000/play/a0kz/index.m3u8?hls
