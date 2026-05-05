@@ -69,7 +69,8 @@ http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 #EXTINF:-1tvg-logo="https://i.ibb.co/KcStVy1Z/HBO-FAMILY.png",HBO FAMILY OP1
 http://45.5.149.220:8000/play/a047/index.m3u8?hls
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",CRONICATV OP1
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/m5v4jjRP/CRONICATV.png",CRONICATV OP1
 http://45.5.149.220:8000/play/a037/index.m3u8?hls
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg",CANAL 26 OP2
