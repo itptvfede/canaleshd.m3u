@@ -68,8 +68,7 @@ http://187.102.195.131:8000/play/a01f/index.m3u8
 http://8.243.126.131:8000/play/a0gi/index.m3u8?hls
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/KcStVy1Z/HBO-FAMILY.png",HBO FAMILY OP1
-http://45.5.149.220:8000/play/a047/index.m3u8?hls
-
+http://38.188.48.83:8000/play/a0pq/index.m3u8?hls
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/m5v4jjRP/CRONICATV.png",CRONICATV OP1
 http://45.5.149.220:8000/play/a037/index.m3u8?hls
