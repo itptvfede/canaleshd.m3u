@@ -75,5 +75,5 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7
 #EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",TELEMUNDO OP2
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-26_720.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",TELEMUNDO OP2
-http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-26_720.m3u8
+#EXTINF:-1tvg-logo="https://i.ibb.co/8D16m2Sw/TELEMUNDO.jpg",MULTIVISION OP2
+http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/Multivision.720.37662.ts
