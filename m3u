@@ -43,7 +43,7 @@ http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 group-title="FULLHD",CANAL 26 NOTICIAS
 http://181.13.252.102:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="FULLHD",TN NOTICIAS
+#EXTINF:-1tvg-logo="https://i.ibb.co/G4Tvy5HB/TN.png",TN NOTICIAS
 http://181.13.252.102:8000/play/a058/index.m3u8
 
 #EXTINF:-1 group-title="FULLHD",C5N
@@ -89,4 +89,6 @@ http://38.188.48.83:8000/play/a0og/index.m3u8?hls
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/RkZ9D0Sz/CLASICOS.png",CLASICOS ANIMALOS
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
+
+
 
