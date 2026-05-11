@@ -90,6 +90,9 @@ http://38.188.48.83:8000/play/a0og/index.m3u8?hls
 #EXTINF:-1tvg-logo="https://i.ibb.co/3YMv1vDd/DC.jpg",DISCPVERY CHANNEL OP2
 http://8.243.126.131:8000/play/a05k/index.m3u8?hls
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",HISTORY OP2
+http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/RkZ9D0Sz/CLASICOS.png",CLASICOS ANIMALOS
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 
@@ -105,3 +108,5 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+
