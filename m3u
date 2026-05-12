@@ -104,7 +104,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTS38mkr/TVP.png" group-title="ARGENTINA",TVP
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbm" group-title="ARGENTINA",A24
 https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
 
@@ -112,6 +111,5 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLFbkGpC/TURBO.png" group-title="ARGENTINA",CINE
-http://177.93.46.245:50000/play/a01x/index.m3u8?hls
+
 
