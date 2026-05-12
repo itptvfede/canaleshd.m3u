@@ -105,13 +105,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",A24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbm" group-title="ARGENTINA",A24
 https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G4Tvy5HB/TN.png" group-title="ARGENTINA",TN NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLFbkGpC/TURBO.png" group-title="ARGENTINA",DISCOVERY TURBO
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
 
 
