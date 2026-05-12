@@ -111,8 +111,7 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4Tvy5HB/TN.png" group-title="ARGENTINA",TN NOTICIAS
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
 
 
