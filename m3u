@@ -111,6 +111,7 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLFbkGpC/TURBO.png" group-title="ARGENTINA",DISCOVERY TURBO
-http://38.188.48.83:8000/play/a0qs/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLFbkGpC/TURBO.png" group-title="ARGENTINA",CINE
+http://177.93.46.245:50000/play/a01x/index.m3u8?hls
 
