@@ -116,5 +116,5 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLFbkGpC/TURBO.png" group-title="ARGENTINA",DISCOVERY TURBO
 http://38.188.48.83:8000/play/a0qs/index.m3u8?hls
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLFbkGpC/TURBO.png" group-title="ARGENTINA",DISCOVERY TURBO
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjEyNC4xNTMuNTg=/4_.m3u8?token=qUHJ80YZpmmhSzlctMb1Eg&expires=1778661682
