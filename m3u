@@ -74,7 +74,6 @@ http://187.102.195.131:8000/play/a01f/index.m3u8
 #EXTINF:-1tvg-logo="https://i.ibb.co/XryZ7ykN/SONY-CHANNEL.jpg",SONY CHANNEL OP1
 http://181.13.252.102:8000/play/a05d/index.m3u8?hls
 
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/KcStVy1Z/HBO-FAMILY.png",HBO FAMILY OP1
 http://38.188.48.83:8000/play/a0pq/index.m3u8?hls
 
@@ -105,10 +104,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTS38mkr/TVP.png" group-title="ARGENTINA",TVP
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbm" group-title="ARGENTINA",A24
-https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMzyTXhx/AMERICA.jpg" group-title="ARGENTINA",AMERICA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR83TK2W/AMERICA.png" group-title="ARGENTINA",AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
@@ -138,3 +134,6 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w835792186.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/ZzPwnnt4/GOLDEN.png",GOLDEN
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/3718.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbm" group-title="ARGENTINA",A24
+https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
