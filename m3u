@@ -93,8 +93,6 @@ http://8.243.126.131:8000/play/a05k/index.m3u8?hls
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",HISTORY OP2
 http://45.5.149.220:8000/play/a05r/index.m3u8?hls
 
-
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/RkZ9D0Sz/CLASICOS.png",CLASICOS ANIMALOS
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 
@@ -129,5 +127,5 @@ http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/59.ts
 #EXTINF:-1tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png",TNT CINE OP3
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/49.ts
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png",DIRECTV SPORTS
+#EXTINF:-1tvg-logo="https://i.ibb.co/RGNJyM4D/SPORTS.jpg",DIRECTV SPORTS
 http://8.243.126.131:8000/play/a05a/index.m3u8?hls
