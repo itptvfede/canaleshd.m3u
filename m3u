@@ -113,6 +113,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",SONY CHANNEL OP3
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/8.ts
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",SPACE OP3
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/2882.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",Walner OP3
+http://flowlive360net.com:80/live/luisdtvcol-2024/rTBNRDxuqESg/9.ts
