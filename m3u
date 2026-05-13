@@ -140,3 +140,6 @@ http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/3718.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",A24
 https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMP7XxL8/ESP-PREMIUM.png",ESPN PREMIUM OP4
+http://181.13.252.102:8000/play/a078/200856209_5ad8.ts
