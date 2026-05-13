@@ -132,7 +132,7 @@ http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1tvg-logo="https://i.ibb.co/5Wt6DDhT/CTV.jpg",CTV SAN LUIS
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w835792186.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/5Wt6DDhT/CTV.jpg",SAN LUIS +
+#EXTINF:-1tvg-logo="https://i.ibb.co/Zps63kqd/sanluis.jpg",SAN LUIS +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/ZzPwnnt4/GOLDEN.png",GOLDEN
