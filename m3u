@@ -128,3 +128,6 @@ http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/59.ts
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png",TNT CINE OP3
 http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/49.ts
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png",DIRECTV SPORTS
+http://8.243.126.131:8000/play/a05a/index.m3u8?hls
