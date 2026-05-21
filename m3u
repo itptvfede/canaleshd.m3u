@@ -141,4 +141,5 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gCX4GZH/FOXSPORTS.jpg" group-title="ARGENTINA",FOX SPORTS 1
 http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gCX4GZH/FOXSPORTS.jpg" group-title="ARGENTINA",12334
+http://45.5.151.147:8000/play/a00s/39062362.m3u8
