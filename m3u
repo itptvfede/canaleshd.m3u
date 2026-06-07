@@ -144,3 +144,7 @@ http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",A24
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",TN PRUEBA
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272053.m3u8
