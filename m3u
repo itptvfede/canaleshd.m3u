@@ -147,6 +147,10 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",TN PRUEBA
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272053.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",TYC PRUEBA
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187371.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187174.m3u8
+
+
