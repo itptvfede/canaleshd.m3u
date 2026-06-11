@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CIUDAD MAGAZINE" tvg-group="SENSA",CIUDAD MAGAZINE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
@@ -160,4 +153,5 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187371.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187174.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",DIRECTV SPORTS  
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/407641.ts
