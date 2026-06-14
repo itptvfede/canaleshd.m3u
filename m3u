@@ -159,3 +159,6 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/407641.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",tnt
 http://179.60.51.134:8888/TNT/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA"STAR
+http://179.60.51.134:8888/STAR-CHANNEL/index.m3u8
