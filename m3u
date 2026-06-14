@@ -165,3 +165,7 @@ http://179.60.51.134:8888/STAR-CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",espn premium
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",SIMPSONS
+http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/online-24-7_480.m3u8
