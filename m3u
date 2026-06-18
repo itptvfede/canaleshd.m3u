@@ -1,11 +1,5 @@
 #EXTM3U
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ESPN2.png?raw=true" group-title="Deportes", ESPN 2
-http://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",TNT SPORTS
 https://st.streamtpday1.xyz/global/dsports/index.m3u8?token=6fb7e83f089641673b5ee8258b26ac25aa6c661f-9b-1781868843-1781814843&ip=45.178.2.225
 
