@@ -4,11 +4,6 @@
 #EXTINF:-1 tvg-logo="https://logo.com/tnt.png",Canal DASH (AIV)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",DISCOVERY
-http://st.streamtpday1.xyz:443/tycsports
-http://84.17.50.102/discovery/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",EVEMTO 1
 https://st.streamtpday1.xyz:443/tycsports/tracks-v1a1/mono.m3u8?ip=45.178.2.225&token=6d5baf4826148416560dc8de18a79581a8c859cc-40-1781862118-1781808118
 
