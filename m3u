@@ -134,7 +134,7 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w835792186.m3u8
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/ZzPwnnt4/GOLDEN.png",GOLDEN
-http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/3718.ts
+http://flowlive360net.com/luisdtvcol-2024/rTBNRDxuqESg/3718.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",A24
 https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
@@ -175,4 +175,4 @@ http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/lntv.playlist.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",CARTOON NETWORK
-http://38.188.48.83:8000/play/a0jm/index.m3u8?hls
+http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/telefe.playlist.m3u8
