@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",EVENTOS 2
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1781912693~acl=%2f*~data=hdntl~hmac=afea16ab97dd16649fdd5fe1402d426affd096cebcaa49cf07182bea28bcf438/master-mtlf3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",EVENTOS 2
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1781912849~acl=%2f*~data=hdntl~hmac=c5a4f557b98d35d14abd897c11e466ecfe8989ab650dee2cb1034bf9673666ed/master-mtlf3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",TNT SPORTS
 https://st.streamtpday1.xyz/global/dsports/index.m3u8?token=6fb7e83f089641673b5ee8258b26ac25aa6c661f-9b-1781868843-1781814843&ip=45.178.2.225
