@@ -1,8 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://logo.com/tnt.png",Canal DASH (AIV)
+
+#EXTINF:-1 tvg-logo="https://logo.com/tnt.png",HISTORY
 http://179.60.51.134:8888/HISTORY/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",EVEMTO 1
 https://st.streamtpday1.xyz:443/tycsports/tracks-v1a1/mono.m3u8?ip=45.178.2.225&token=6d5baf4826148416560dc8de18a79581a8c859cc-40-1781862118-1781808118
