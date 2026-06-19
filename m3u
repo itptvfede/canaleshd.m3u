@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",EVENTOS 3
+http://8.243.126.131:8000/play/a04n/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",EVENTOS 2
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272044.m3u8
 
