@@ -17,10 +17,8 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272044.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",TNT SPORTS
 https://st.streamtpday1.xyz/global/dsports/index.m3u8?token=6fb7e83f089641673b5ee8258b26ac25aa6c661f-9b-1781868843-1781814843&ip=45.178.2.225
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",EVEMTO 1
-https://st.streamtpday1.xyz:443/tycsports/tracks-v1a1/mono.m3u8?ip=45.178.2.225&token=6d5baf4826148416560dc8de18a79581a8c859cc-40-1781862118-1781808118
-
+https://yxdlc29tzq.fubo18.com/tycsports/mono.m3u8?token=9921f2fa25d397a56147f6d4d2f9d864099af96a-5-1781911256-1781893256
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",CRONICATV
 http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/CronicaTv_720.m3u8
