@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",ADULTO
 http://38.188.48.83:8000/play/a0km/index.m3u8?hls
 
@@ -16,7 +15,7 @@ http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272044.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",EVENTO 3
-https://anvtcax.fubo18.com/telefe/mono.m3u8?token=894e5b39392679823486b5f2c293379afe72cc4b-e3-1781922350-1781904350
+https://khala.skylivehd.com:443/tycsports/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=c7e940cd78f1785217647ccb8886a01a423d4c32-96-1781961056-1781907056
 
 
 
