@@ -1,20 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",TV2
+https://cors-proxy.cooks.fyi/https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 
-
-#EXTINF:-1 tvg-id="DSports2" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6998/6998WHORIZONTAL.jpg?size=290x163" group-title="", AR.DSports2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
-http://k-fra32.x10.network/Cl_Dash.php?id=1492377&user=teste&pass=teste&r=ok
-
-#EXTINF:-1 tvg-id="DSports1" tvg-logo="http://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8691/8691WHORIZONTAL.jpg?size=290x163" group-title="", AR.DSports1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
-http://k-fra32.x10.network/Cl_Dash.php?id=1491587&user=teste&pass=teste&r=ok
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",ADULTO
 http://38.188.48.83:8000/play/a0km/index.m3u8?hls
