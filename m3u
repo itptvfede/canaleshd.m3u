@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",TV9
-https://cors-proxy.cooks.fyi/http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187374.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",TV119
+https://bgvnzw5k.fubo18.com/tycsports/mono.m3u8?token=96a382cc4034b76dd9441a2edc286014f77dc680-46-1782109943-1782091943
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",ADULTO
 http://38.188.48.83:8000/play/a0km/index.m3u8?hls
