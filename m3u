@@ -8,6 +8,15 @@
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
 https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTExYTg3YzMxMzI3YzBmOCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyMTU0MjI3LTQ5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.7dSEtc7Aiz-ovrAowEqsRX6SNQMzsp8zIzAMtcZ9_LFqQOCYBFgdH3boW8J3KwMyNoMj2uix9jOWe2UhdDjb7g==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
+#EXTINF:-1 tvg-id="TYC SPORT" tvg-name="TYC SPORT" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png" group-title="PACK FLOW🇦🇷",TYC SPORT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://edge-live08-sl.cvattv.com.ar/tok_.../live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",MAGAZINE
