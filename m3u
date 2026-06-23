@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",MAGAZINE
+http://190.7.19.197:232/play/a04l/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="ARGENTINA🇦🇷",TN NOTICIAS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
