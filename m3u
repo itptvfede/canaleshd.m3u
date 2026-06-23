@@ -67,13 +67,14 @@ https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar","Referer":"https://portal.app.flow.com.ar/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
+
 #EXTINF:-1 tvg-id="TELEFE ARG" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title="🏆MUNDIAL 2026🏆", TELEFE ARG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjI4Nzk1Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE4ySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0Y2U3M2UwY2IzY2ZmMjUzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjU4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.twaaL72xMbfh57YNWRShlYOEp1VZSYsfvM9q5BaJhdHUmGde22DnJlRO00i0_W80FC-dZ898Z4paDs41BbeOew==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjYyMTgxIiwic2lwIjoiMTAzLjUwLjMzLjIwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYjY4MDYyNjRhZDQxMzFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.VUkX-hrR9ip0Wsdl3C5KvM1Pox5eikJpgpWh9k_EEqKBq-49vYQMb6Bpq15B_SNlnR_lR86ERJkNwM56IvseUA==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="EVENTOS",TV121
