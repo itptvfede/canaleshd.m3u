@@ -1,14 +1,8 @@
 #EXTM3U
 
-
 #EXTM3U
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=cd82180cb606cee7547f58298c4f8fcb:844489c5f007fbe4afa36c8d64528d73
-#EXTINF:-1 tvg-name="Telefe Mar del Plata HD" group-title="TV",Telefe Mar del Plata HD
-https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Telefe_MDQ_HD.mpd
-
+#EXTINF:-1,Cronica TV
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_hls_full_e_95AEFABF606F67368D62A486/CronicaTV.m3u8
 
 
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
