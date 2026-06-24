@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jBMLyH/Espnpr.png" tvg-group="DEPORTES", ESPN PREMIUM AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/espnpremium.json
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
