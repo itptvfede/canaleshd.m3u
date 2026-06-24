@@ -1,13 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png" group-title="PACK FLOW🇦🇷",SPACE HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-https://edge-live03-sl.cvattv.com.ar/.../Space.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&Referer=https://portal.app.flow.com.py/&Origin=https://portal.app.flow.com.py
-
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -32,6 +24,13 @@ https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
 https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTExYTg3YzMxMzI3YzBmOCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyMTU0MjI3LTQ5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.7dSEtc7Aiz-ovrAowEqsRX6SNQMzsp8zIzAMtcZ9_LFqQOCYBFgdH3boW8J3KwMyNoMj2uix9jOWe2UhdDjb7g==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
 
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png" group-title="PACK FLOW🇦🇷", SPACE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://edge-live03-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MzM4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1R2X0NoaWxlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzOWM2NzhkNDNmNmM4NWMyIiwic2Vzc2lvbl9pZCI6IjYzYmU3ZTRhOWU5Y2FhMGYwMDY2YTFjM2NkYWE1YWYyLTE3ODIxNTQ1NDUtOTk4IiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYzYmU3ZTRhOWU5Y2FhMGYwMDY2YTFjM2NkYWE1YWYyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYyIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.3TubGc7hj8ysWvmbWg6wTyZiGAWiYbx1r-nsHUPX_OE6JsBp0FS6O2H3d-W6PMrovS0znBy31ro8XRoZmVf90A==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
 #EXTINF:-1 tvg-id="TELEFE ARG" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title="🏆MUNDIAL 2026🏆", TELEFE ARG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
