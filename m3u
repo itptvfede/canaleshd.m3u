@@ -1,11 +1,10 @@
 #EXTM3U
 
+#EXTM3U
 
-
-# EXTINF : -1  tvg-name = " ArtearHD "  group-title = " GENERALES " , El Trece HD
-# EXTKEY : METHOD=SAMPLE-AES,URI="data:text/plain;base64,NTE3OTAxN2Y0OTMyNmQxNGFmMGE5Y2VlYzgzMWFlZTY6MDliNGE0NjNiMDI5ZWJjMjhhMjg4YmVkMmRhNzBhNzY="
+#EXTINF:-1 tvg-name="ArtearHD" group-title="GENERALES",El Trece HD
+#EXTKEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,NTE3OTAxN2Y0OTMyNmQxNGFmMGE5Y2VlYzgzMWFlZTY6MDliNGE0NjNiMDI5ZWJjMjhhMjg4YmVkMmRhNzBhNzY="
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_hls_full_e_95AEFABF606F67368D62A486/ArtearHD.m3u8
-
 
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
