@@ -2,51 +2,7 @@
 
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOS 2
-https://mileixd.skylivehd.com:443/disney10/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=cbc9442a2156ae373f4ea27a746de474f3040949-72-1782550095-1782496095
-
-#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOS 1
-https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1500.m3u8?_Expires=1782524497&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90ZWxlZmViLmNkbi5tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXNlY3VyZS82OWUwZmI2NTBkOWUzZWI1MzQwY2RkNWMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MjUyNDQ5N319fV19&_Signature=VZHWpeZDa0C6Py29aQ7pxs2tosH~WoC4dOGzRmCmgMuq-fq-Z4xmCHtWvEza1MNpNmZrRfBkwZRumJTBk5LSluchjYSOIa8~MD1z0WL4hn2cawIJ89ArtIVS~3iLDS0DbLlhvFFQNVtmINJ13mdIM~wfIuh9svqWCCRuY4bS2iFbOBfCKAqxB93LPipy-LlKLFawZ3X8AVLkYrtVGDvTM4X6mmiUBqirefbl1PCqxyBIRqGF5E8B4QWCqsEg7Psqa5FqkVWklULiENh0gGTfuGDYUOwMk9kYtslih1As078R2q3bn~5QzgNHThuj2zDgt53mBo72dkQPQ7HNL~yFgA__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=69dfb44d09ecc98dc876969f&uid=VMIuKTGHWcecF9rx3qGtc2PLSqHapUEg&sid=VGUFLEtOwAtiHbNY3UwieANJgRZyLfh3&pid=NdVy7Vebcx8ymVKOatd4jskgS9JZyodh&pid_dvr=eQhLS9ZJYGX7Yk5c4OMDp4UVlUP87mMw&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=PgK3TzTyUL4ZttJgu6Q1W1ar9hviJLydq3Mygqo2C1iseNoCVPar2AGJ4TIketRsk1wNCBLiqTx&es=telefeb.cdn.mdstrm.com&proto=https&pz=us
-
-#EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-live09-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTExYTg3YzMxMzI3YzBmOCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyMTU0MjI3LTQ5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.7dSEtc7Aiz-ovrAowEqsRX6SNQMzsp8zIzAMtcZ9_LFqQOCYBFgdH3boW8J3KwMyNoMj2uix9jOWe2UhdDjb7g==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
-
-#EXTINF:-1 tvg-id="TYC SPORT" tvg-logo="https://i.ibb.co/60QvHcnr/R-2.png" group-title="PACK FLOW🇦🇷", TYC SPORT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTExYTg3YzMxMzI3YzBmOCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyMTU0MjI3LTQ5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.7dSEtc7Aiz-ovrAowEqsRX6SNQMzsp8zIzAMtcZ9_LFqQOCYBFgdH3boW8J3KwMyNoMj2uix9jOWe2UhdDjb7g==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://i.ibb.co/ynkwLW3/hbofam.webp" group-title="PACK FLOW🇦🇷", HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTExYTg3YzMxMzI3YzBmOCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyMTU0MjI3LTQ5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.7dSEtc7Aiz-ovrAowEqsRX6SNQMzsp8zIzAMtcZ9_LFqQOCYBFgdH3boW8J3KwMyNoMj2uix9jOWe2UhdDjb7g==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd
-
-#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png" group-title="PACK FLOW🇦🇷", SPACE HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-live03-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MzM4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1R2X0NoaWxlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzOWM2NzhkNDNmNmM4NWMyIiwic2Vzc2lvbl9pZCI6IjYzYmU3ZTRhOWU5Y2FhMGYwMDY2YTFjM2NkYWE1YWYyLTE3ODIxNTQ1NDUtOTk4IiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYzYmU3ZTRhOWU5Y2FhMGYwMDY2YTFjM2NkYWE1YWYyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzYyIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.3TubGc7hj8ysWvmbWg6wTyZiGAWiYbx1r-nsHUPX_OE6JsBp0FS6O2H3d-W6PMrovS0znBy31ro8XRoZmVf90A==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
-
-#EXTINF:-1 tvg-id="TELEFE ARG" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title="🏆MUNDIAL 2026🏆", TELEFE ARG
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjYyMTgxIiwic2lwIjoiMTAzLjUwLjMzLjIwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYjY4MDYyNjRhZDQxMzFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.VUkX-hrR9ip0Wsdl3C5KvM1Pox5eikJpgpWh9k_EEqKBq-49vYQMb6Bpq15B_SNlnR_lR86ERJkNwM56IvseUA==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
-
+http://191.97.63.231:2053/play/a0rm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="📡 PACK ASTRA",MAGAZINE
 http://190.7.19.197:232/play/a04l/index.m3u8
