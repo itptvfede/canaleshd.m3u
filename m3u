@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",HISTORY
+http://179.60.51.134:8888/HISTORY/index.m3u8
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOS 2
 http://191.97.63.231:2053/play/a0rm/index.m3u8
 
