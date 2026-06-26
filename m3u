@@ -3,7 +3,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="EVENTOS"
-https://sa.streamtpday1.xyz:443/espn4/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=9cf48a3336254a2df4dca531bd17b08045b83857-4a-1782539077-1782485077
+https://khala.skylivehd.com:443/tycsports/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=36b1b45286b5182e62cc03bea668d6fff6245a98-5d-1782539282-1782485282
+
+
 
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
