@@ -51,7 +51,7 @@ http://190.7.19.197:232/play/a04l/index.m3u8
 http://38.188.48.83:8000/play/a0pa/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="📡 PACK ASTRA",MAGAZINE
-http://38.159.232.166:8000/play/a03s/index.m3u8?hls
+http://38.159.232.166:8000/play/a03s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="📡 PACK ASTRA",DIRECTV
 http://191.97.63.231:2053/play/a1aa/index.m3u8
@@ -117,7 +117,7 @@ http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/CronicaTv_720.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
-https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv
+http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
