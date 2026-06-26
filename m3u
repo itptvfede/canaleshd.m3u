@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTM3U
 
-#EXTINF:-1 tvg-id="EVENTOS"
-https://khala.skylivehd.com:443/tycsports/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=36b1b45286b5182e62cc03bea668d6fff6245a98-5d-1782539282-1782485282
-
+#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOS 1
+https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/95be72d9-1888-4dd9-b7b7-7db55fe4afd3:SCL2/variant/27d892eda46db8ff6803150f828bc30a/bandwidth/1491534.m3u8?aid=69dfb44d09ecc98dc876969f&uid=VMIuKTGHWcecF9rx3qGtc2PLSqHapUEg&sid=B3lhT59uYUtMil10ew6EMAQJPU92x57B&pid=EmchewqjmAfTrLq0PnGs9E4fLRCIs56Q&pid_dvr=maYV54bNH1FxQmUer0x4Bmxai2RZhhO9&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=m63hvuO18kTpU60TZuGaX4ZzkRcAhhPVQWDEQskpk8icK7pXPWCGq5hr0t2QPTWuJ2MdqZgQxaf&adInsertionGoogleStreamId=95be72d9-1888-4dd9-b7b7-7db55fe4afd3%3ASCL2&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1782581198597&ot=2IhoS8tVNusnC_s1EIknkQ&proto=https&pz=us
 
 
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title="PACK FLOW🇦🇷",TN NOTICIAS
