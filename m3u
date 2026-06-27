@@ -22,35 +22,6 @@ http://38.159.232.166:8000/play/a03s
 http://191.97.63.231:2053/play/a1aa/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/tn_1da1649d275946c9a212a22d4ec5b38c.png" group-title=" ARGENTINA🇦🇷", TN NOTICIAS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-live08-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMzI3MDI4Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNTExYTg3YzMxMzI3YzBmOCIsInNlc3Npb25faWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMi0xNzgyMTU0MjI3LTQ5NSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiI2M2JlN2U0YTllOWNhYTBmMDA2NmExYzNjZGFhNWFmMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxNiIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.7dSEtc7Aiz-ovrAowEqsRX6SNQMzsp8zIzAMtcZ9_LFqQOCYBFgdH3boW8J3KwMyNoMj2uix9jOWe2UhdDjb7g==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
-
-
-#EXTINF:-1 tvg-id="DIRECTV 1" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="🏆MUNDIAL 2026🏆", DIRECTV 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.ar","Referer":"https://portal.app.flow.com.ar/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-
-#EXTINF:-1 tvg-id="TELEFE ARG" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title="🏆MUNDIAL 2026🏆", TELEFE ARG
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjYyMTgxIiwic2lwIjoiMTAzLjUwLjMzLjIwMCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYjY4MDYyNjRhZDQxMzFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.VUkX-hrR9ip0Wsdl3C5KvM1Pox5eikJpgpWh9k_EEqKBq-49vYQMb6Bpq15B_SNlnR_lR86ERJkNwM56IvseUA==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="EVENTOS",TV121
 https://ym9yzq.fubo18.com/tycsports/mono.m3u8?token=82da8a35164f41780857187803ac446c7b67fc1c-75-1782184458-1782166458
 
@@ -82,7 +53,7 @@ http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/CronicaTv_720.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
-http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.m3u8
+http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
