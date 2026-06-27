@@ -1,8 +1,8 @@
 #EXTM3U
 
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ
-https://st.streamtpday1.xyz:443/tntsports/tracks-v1a1/mono.m3u8?ip=45.178.3.33&token=0c92caf9e50ccd5162244f520189c0aec96c9a27-29-1782618310-1782564310
+https://cors-proxy.cooks.fyi/http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187374.ts
+
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",TN
 https://m.youtube.com/watch?v=cb12KmMMDJA
