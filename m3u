@@ -1,10 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",HISTORY
+#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",TN
 https://m.youtube.com/watch?v=cb12KmMMDJA
 
-
+#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",CANAL 7 MZA
+https://m.youtube.com/watch?v=Vh8xmLBJtR8&pp=ygURNyBtZW5kb3phIGVuIHZpdm8%3D
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOS 2
 http://191.97.63.231:2053/play/a0rm/index.m3u8
