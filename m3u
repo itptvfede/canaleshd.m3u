@@ -3,8 +3,7 @@
 
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 3
-https://test.cors.workers.dev/http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187374.ts
-
+http://45.170.130.224:8000/play/a04j/index.m3u8?hls
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ
 http://191.97.63.231:2053/play/a1ac/index.m3u8
