@@ -1,7 +1,8 @@
 #EXTM3U
 
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",PELCU
-https://dropload.co/e/x0ph9jyfhe6h
+http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 5
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
