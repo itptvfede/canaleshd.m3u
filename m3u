@@ -1,7 +1,8 @@
 #EXTM3U
 
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",PELCU
-https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/sPkbRW302OPLRpYgoXcny013xpfJpR4M53iJAq6NaYYEaL2LaXxUjRYJhuOcOoLcYiV3r01VLLhFrH8uKcsw006pc1cd2syHSKBU/rendition.m3u8?cdn=fastly&expires=1783303200&skid=default&signature=NmE0YjA4MjFfZDljMTM2MjY0YThmYjMxZTFkYjNlYzJlYWNhZTBkMmZjOTgzZjE2ZGU3N2E1MDY5YWRkZjM5ZmY1NTZiYzViZQ==
+http://138.118.213.244:85/cloud_2/Los.Simpson.Extreme.Makeover.Homer.Edition.2026.720.lat.mp4
 
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 5
