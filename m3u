@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",PELCU
-https://vod-limit-02.playspelis.com/b03009916b8f71f180ace6f6c44a0102/95070f1ea9ca46fea4a58176c4e42c70-microframe-ld.m3u8?hdnts=exp=1783297960_acl=/b03009916b8f71f180ace6f6c44a0102/*_hmac=c9fc9a9a1679baa7e4e8a2d9a68490da537ce4f37a2800950819bd916dee1507
+https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/sPkbRW302OPLRpYgoXcny013xpfJpR4M53iJAq6NaYYEaL2LaXxUjRYJhuOcOoLcYiV3r01VLLhFrH8uKcsw006pc1cd2syHSKBU/rendition.m3u8?cdn=fastly&expires=1783303200&skid=default&signature=NmE0YjA4MjFfZDljMTM2MjY0YThmYjMxZTFkYjNlYzJlYWNhZTBkMmZjOTgzZjE2ZGU3N2E1MDY5YWRkZjM5ZmY1NTZiYzViZQ==
+
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 5
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
