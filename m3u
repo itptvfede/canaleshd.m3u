@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES
+http://planettvweb.com:8091/live/NicaelaAbalo/TYed5794q/20322.ts
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES 1
 http://starlatino.tv:8880/live/Premium01@/QsGrHZSjyBeB/526169.ts
 
