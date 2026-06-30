@@ -1,17 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOS 2R
+#EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES 1
 http://starlatino.tv:8880/live/Premium01@/QsGrHZSjyBeB/526169.ts
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES 2
+https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1500.m3u8?_Expires=1782631953&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90ZWxlZmViLmNkbi5tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXNlY3VyZS82OWUwZmI2NTBkOWUzZWI1MzQwY2RkNWMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MjYzMTk1M319fV19&_Signature=BrPyzHHcmvx4wLYZ2772evto81QQq14TxQSjApuPzL49ZXdBimMDrPe7d8o9Yb7QYpQxy3S-Fs~fANsVKFeNVMj24JqGDDpraufsWeNsegLfL3hcdiWxSRTOUpwPqH6ebmgJjaxFaS6~is1wW3IQ9UQCdgXip65pd24WGGWDVhiL8arUeyqJW5R-Fc7QYih4CJXkffgQroqD7eb3vhvXP0WJcv3qa4kVH81~XEZaIOCdYp8Pu9LBahASPX6dkCi3q66GV~IpBS-z8AUFSLHGBslWXan6zwcKCaEssF2hyhjXvEZWxG3I6chfbFlk5W0Xasb1mzFkxDzdZ2L4OVV9DQ__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=69dfb44d09ecc98dc876969f&uid=VMIuKTGHWcecF9rx3qGtc2PLSqHapUEg&sid=3FNaEURtsk5Mmj2O1Ftz2CAjjmxahxBy&pid=lfXanHakpaPuto36kSkgAi3nuUOwMtuI&pid_dvr=UfiM9uwhYPpHZVepRRcWhqqPa0sgeQTK&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=24r5ui75iaYeODlm5iGY4Q8PDwJhgQK1Gb375nuitCqD1UT6h2u3PX3YzZl6tI7CqcyDkcqIprH&es=telefeb.cdn.mdstrm.com&proto=https&pz=us
+
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",PELCU
 http://179.60.51.134:8888/CINE-CANAL/index.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 5
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
-
-#EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 4
-https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1500.m3u8?_Expires=1782631953&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90ZWxlZmViLmNkbi5tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXNlY3VyZS82OWUwZmI2NTBkOWUzZWI1MzQwY2RkNWMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MjYzMTk1M319fV19&_Signature=BrPyzHHcmvx4wLYZ2772evto81QQq14TxQSjApuPzL49ZXdBimMDrPe7d8o9Yb7QYpQxy3S-Fs~fANsVKFeNVMj24JqGDDpraufsWeNsegLfL3hcdiWxSRTOUpwPqH6ebmgJjaxFaS6~is1wW3IQ9UQCdgXip65pd24WGGWDVhiL8arUeyqJW5R-Fc7QYih4CJXkffgQroqD7eb3vhvXP0WJcv3qa4kVH81~XEZaIOCdYp8Pu9LBahASPX6dkCi3q66GV~IpBS-z8AUFSLHGBslWXan6zwcKCaEssF2hyhjXvEZWxG3I6chfbFlk5W0Xasb1mzFkxDzdZ2L4OVV9DQ__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=69dfb44d09ecc98dc876969f&uid=VMIuKTGHWcecF9rx3qGtc2PLSqHapUEg&sid=3FNaEURtsk5Mmj2O1Ftz2CAjjmxahxBy&pid=lfXanHakpaPuto36kSkgAi3nuUOwMtuI&pid_dvr=UfiM9uwhYPpHZVepRRcWhqqPa0sgeQTK&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=24r5ui75iaYeODlm5iGY4Q8PDwJhgQK1Gb375nuitCqD1UT6h2u3PX3YzZl6tI7CqcyDkcqIprH&es=telefeb.cdn.mdstrm.com&proto=https&pz=us
-
 
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/kgMR4H6C/HISTORY.jpg",EVENTOZ 3
