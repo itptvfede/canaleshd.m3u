@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES
+https://bmf0aw9u.fubo18.com/winsports/mono.m3u8?token=5ceb03f2c015901b7a02d1b3a3a2080682d540dc-f6-1782883267-1782865267
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES
 http://planettvweb.com:8091/live/NicaelaAbalo/TYed5794q/20322.ts
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/dJPL7hwX/eventos.png",EVENTOS MUNDIALES 1
