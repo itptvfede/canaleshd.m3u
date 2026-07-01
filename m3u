@@ -60,7 +60,7 @@ http://191.97.63.231:2053/play/a1aa/index.m3u8
 https://ym9yzq.fubo18.com/tycsports/mono.m3u8?token=82da8a35164f41780857187803ac446c7b67fc1c-75-1782184458-1782166458
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",ADULTO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="movies",ADULTO
 http://38.188.48.83:8000/play/a0km/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",MAGAZINE
