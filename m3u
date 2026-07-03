@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",pruebs
+https://khala.skylivehd.com:443/telefe/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=70de28fb4e5ef0bb858f466648cd83e82aa7cd63-e9-1783156526-1783102526
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",TYC
 http://nffthex0kzt.xyz/rk/Ht6MEw8rLXqZ/eSgK1xuwfgC0/921.m3u8
