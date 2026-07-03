@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",TYC
 http://nffthex0kzt.xyz/rk/Ht6MEw8rLXqZ/eSgK1xuwfgC0/921.m3u8
 
@@ -286,6 +285,5 @@ http://138.118.213.244:85/Live/7b403da8538127107b307d0dba44fd8b/telefe.playlist.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY
 http://186.33.61.182:8000/play/a010/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",CANAL PRUEBA
+http://190.108.90.142:8000/play/a00h/index.m3u8?hls
