@@ -289,6 +289,9 @@ http://186.33.61.182:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",CANAL PRUEBA
 http://190.108.90.142:8000/play/a00h/index.m3u8?hls
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",CANAL RETRO
 https://lbgo.bozztv.com/ssh101/ssh101/timetraveltv/playlist.m3u8?fbclid=IwdGRjcAS0rPBjbGNrBLSs6mV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHqv7VzWX8BdbJ3TN2bd2MAvBat_diUSB8bm2XGAtB9sw1h6OdmSC3AS8xX6j_aem_o7dHtqesn-e3E7ikF-SqMA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",CINE
+http://186.33.61.182:8000/play/a04q/index.m3u8
