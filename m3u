@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true", DSports 1 FHD (60fps)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",HISTORY 2
 http://191.97.63.231:2053/play/a0rp/index.m3u8
