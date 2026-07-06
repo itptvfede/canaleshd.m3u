@@ -181,7 +181,7 @@ http://181.13.252.102:8000/play/a01p/index.m3u8?hls
 http://181.13.252.102:8000/play/a055/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9kMRdQ7/MAGAZINE.jpg",MAGAZINE OP1
-http://181.13.252.102:8000/play/a02h/index.m3u8?hls
+http://181.13.252.102:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4XhpncW/TNT-SPORTS.png",TNT SPORTS OP1
 http://45.5.149.220:8000/play/a03r/index.m3u8?hls
