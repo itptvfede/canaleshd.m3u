@@ -3,9 +3,6 @@
 #EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",EVENTOS MUNDIALES 
 http://179.60.51.134:8888/CARACOL/index.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",prueba
-https://www.m3ukodi.com/site/playlist_tube/generate_m3u.php?mode=individual&db_id=334
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/27PY1xXY/file-0000000061d0720ebbf6cf20e5a74c7e.png",C5N
 http://191.97.63.231:2053/play/a132/index.m3u8
 
