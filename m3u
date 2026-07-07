@@ -1,11 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1tvg-logo="https://i.ibb.co/4wKNqnhx/tn.jpg",TN 
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-
-#EXTINF:-1tvg-logo="https://i.ibb.co/TDPXTdRT/eltrece.jpg",ELTRECE WEB
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/VY5sTBKx/space.png",CANAL SPACE
 http://186.33.61.182:8000/play/a04x/index.m3u8
