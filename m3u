@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/VY5sTBKx/space.png",EVENTO
+https://ss.domain77654422122.sbs:443/telemundo/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=441fbcf6ca4afe16e837642408886b8faf830f77-19-1783432526-1783378526
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/VY5sTBKx/space.png",CANAL SPACE
 http://186.33.61.182:8000/play/a04x/index.m3u8
 
