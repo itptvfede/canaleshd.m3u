@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1tvg-logo="https://i.ibb.co/4wKNqnhx/tn.jpg",TYC
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ft/index.m3u8?device_id=8dd09d5ddda9
+
 #EXTINF:-1tvg-logo="https://i.ibb.co/4wKNqnhx/tn.jpg",TN 
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
