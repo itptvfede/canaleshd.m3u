@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",FUTBOL MUNDIAL
+http://bceabbnk.sqhsm.com/live/16vtD8ZD/7sfMDwbq/1410747.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",AMERICA PERU
 http://8.243.126.131:8000/play/a01q/index.m3u8?hls
