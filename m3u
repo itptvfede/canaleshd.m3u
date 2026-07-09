@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",CARACOLTV
+http://181.79.80.181:7777/Caracol/mpegts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 https://vkvd364.okcdn.ru:443/expires/1783836111128/srcIp/190.124.153.58/pr/40/srcAg/CHROME/ch/-1811865663/ms/185.226.53.199/mid/1561580021788/type/4/sig/x6NtQIp1p3c/ct/8/urls/178.237.23.181/clientType/13/zs/43/id/705647807004/video/
 
