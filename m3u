@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/69DG5Kc/EVENTO.png" group-title="VARIOS",FUTBOL MUNDIAL 4
+http://45.70.168.162:84/play/a00x/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/69DG5Kc/EVENTO.png" group-title="VARIOS",FUTBOL MUNDIAL 3
 http://181.78.106.127:5000/play/a0st/index.m3u8?hls
 
