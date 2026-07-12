@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",CARACOLTV
+http://185.56.109.253/Golden/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/69DG5Kc/EVENTO.png" group-title="VARIOS",FUTBOL MUNDIAL 9
 http://45.190.156.152:80/HBO_FAMILY/index.mpd
