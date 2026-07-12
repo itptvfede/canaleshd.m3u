@@ -1,10 +1,8 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nyPkwfK/UNIVERSAL-CINEMA.jpg" group-title="CINE",DISCOVERY CHANNEL
-http://181.78.64.21:1010/play/a0i6/index.mpd
+http://38.224.231.47:8000/play/a044/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nyPkwfK/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAD CINEMA
 http://181.78.64.21:1010/play/a0pu/index.mpd
