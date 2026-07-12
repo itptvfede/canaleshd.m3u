@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/69DG5Kc/EVENTO.png" group-title="VARIOS",FUTBOL MUNDIAL 9
+http://45.190.156.152:80/HBO_FAMILY/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/69DG5Kc/EVENTO.png" group-title="VARIOS",FUTBOL MUNDIAL 8
+http://45.173.229.190:8083/play/a11h/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/69DG5Kc/EVENTO.png" group-title="VARIOS",FUTBOL MUNDIAL 7
 https://edgetvp.global.ssl.fastly.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
 
