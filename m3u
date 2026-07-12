@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nnyRLtx/hbo-family.png" group-title="VARIOS",HBO FAMILY
+http://181.233.180.4:8000/play/a06r/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRKrzCKQ/eltrece.png" group-title="VARIOS",ELTRECE
 http://190.5.200.183:8123/play/a0j4/index.mpd
