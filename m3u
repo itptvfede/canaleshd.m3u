@@ -2,6 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jv1X21YB/discovery.jpg" group-title="CINE",DISCOVERY CHANNEL
+http://181.233.180.4:8000/play/a05d/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jv1X21YB/discovery.jpg" group-title="CULTURA",DISCOVERY CHANNEL
 http://38.224.231.47:8000/play/a044/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nyPkwfK/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAD CINEMA
