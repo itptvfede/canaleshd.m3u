@@ -1,7 +1,8 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nyPkwfK/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAD CINEMA
-http://8.243.126.131:8000/play/a0de/index.mpd
+http://181.78.64.21:1010/play/a0pu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwY5n5SM/GOLDEN.png" group-title="CINE",GOLDEN
 http://38.224.231.47:8000/play/a00x/index.mpd
