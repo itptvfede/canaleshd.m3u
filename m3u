@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqpmLg8n/ESPN.jpg" group-title="DEPORTES",ESPN PREMIUM
 http://181.233.180.4:8000/play/a078/index.mpd
 
@@ -10,5 +11,6 @@ http://190.7.19.197:232/play/a04l/index.mpd
 http://45.70.168.162:84/play/a00x/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93g2M1QJ/TN.png" group-title="NOTICIAS",TN
-http://190.7.19.197:232/play/a03l/index.mpd
+http://181.233.180.4:8000/play/a058/index.mpd
+
 
