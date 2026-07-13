@@ -1,9 +1,6 @@
 #EXTM3U
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="COPA MUNDIAL",ESPN AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="COPAMUNDIAL",ESPN AR
 http://
 
 
