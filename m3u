@@ -14,8 +14,9 @@ http://181.233.180.4:8000/play/a0fd/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3DF1Kf/EVENTOS.png" group-title="MUNDIAL",MUNDIAL OP2
 http://209.61.12.132:9000/play/a070/index.mpd
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3DF1Kf/EVENTOS.png" group-title="MUNDIAL",MUNDIAL OP3
-https://pw.streamtp.sbs:443/telemundousa/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=35a08d9d081713f8764a69e6f54adea332044644-b8-1784016250-1783962250
+http://181.13.252.102:8000/play/a056/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="DEPORTES",ESPN AR
 http://181.233.180.4:8000/play/a05a/index.mpd
