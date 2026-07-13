@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
+http://181.233.180.4:8000/play/a01p/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
 http://185.244.235.125:9000/play/a07f/index.mpd
 
