@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
 http://181.233.180.4:8000/play/a01p/index.mpd
 
@@ -10,9 +9,11 @@ http://185.244.235.125:9000/play/a07f/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3DF1Kf/EVENTOS.png" group-title="MUNDIAL",MUNDIAL OP1
 http://181.233.180.4:8000/play/a0fd/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wN3DF1Kf/EVENTOS.png" group-title="MUNDIAL",MUNDIAL OP2
+http://209.61.12.132:9000/play/a070/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="DEPORTES",ESPN AR
 http://181.233.180.4:8000/play/a05a/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n367mcx/TELEFE.jpg" group-title="VARIOS",TELEFE
 http://190.5.200.180:8123/play/a0iy/index.mpd
