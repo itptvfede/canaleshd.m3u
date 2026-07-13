@@ -4,8 +4,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
 http://185.244.235.125:9000/play/a07f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="MUNDIAL",ESPN AR
-http://181.233.180.4:8000/play/a05a/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="MUNDIAL",MUNDIAL OP1
+http://181.233.180.4:8000/play/a0fd/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="DEPORTES",ESPN AR
 http://181.233.180.4:8000/play/a05a/index.mpd
