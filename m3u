@@ -1,8 +1,9 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",C5N
-https://edgetvp.global.ssl.fastly.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8?hdnts=exp=1784016422~acl=190.124.153.58~hmac=44a0ca8d21e177da9d03d134349789df89d4a22cfb567aaf7e8eccfa4031383a
+https://m.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
