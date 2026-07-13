@@ -30,7 +30,7 @@ http://181.233.180.4:8000/play/a078/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTdV41hx/MAGAZINE.png" group-title="VARIOS",MAGAZINE
 http://190.7.19.197:232/play/a04l/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XQW9Qdf/cinemax3.jpg" group-title="VARIOS",CINEMAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XQW9Qdf/cinemax3.jpg" group-title="CINE",CINEMAX
 http://45.70.168.162:84/play/a00x/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="NOTICIAS",TN
