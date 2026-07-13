@@ -19,7 +19,7 @@ http://181.233.180.4:8000/play/a051/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kp1mkHdD/arg12.jpg" group-title="NOTICIAS",ARG12
 http://190.7.19.197:232/play/a00o/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd0Q9YSX/sony.png" group-title="CINE",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd0Q9YSX/sony.png" group-title="CINE",SONY CHANNEL
 http://181.233.180.4:8000/play/a05d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jv1X21YB/discovery.jpg" group-title="CULTURA",DISCOVERY CHANNEL
