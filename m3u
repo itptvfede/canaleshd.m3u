@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="COPAMUNDIAL",ESPN AR
-http://
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="MUNDIAL",ESPN AR
+http://
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="DEPORTES",ESPN AR
 http://181.233.180.4:8000/play/a05a/index.mpd
