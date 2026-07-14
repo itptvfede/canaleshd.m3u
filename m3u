@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",C5N
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/273602.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
 http://181.233.180.4:8000/play/a01p/index.mpd
 
