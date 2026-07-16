@@ -64,8 +64,9 @@ http://181.78.64.21:1010/play/a0pu/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwY5n5SM/GOLDEN.png" group-title="CINE",GOLDEN
 http://38.224.231.47:8000/play/a00x/index.mpd
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67HZQwc4/TYC.png" group-title="DEPORTES",TYC
-http://181.233.180.4:8000/play/a02s/index.mpd
+http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187371.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nnyRLtx/hbo-family.png" group-title="CINE",HBO FAMILY
 http://191.97.14.161:9000/play/a06f/index.mpd
