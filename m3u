@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN
+http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/tn_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP45
 http://45.170.130.224:8000/play/a01l/index.mpd
