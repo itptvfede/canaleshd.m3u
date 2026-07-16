@@ -31,8 +31,9 @@ http://209.61.12.132:9000/play/a085/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
 http://181.233.180.4:8000/play/a01p/index.mpd
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
-http://185.244.235.125:9000/play/a07f/index.ts
+http://185.244.235.125:9000/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wN3DF1Kf/EVENTOS.png" group-title="MUNDIAL",MUNDIAL OP1
 http://181.233.180.4:8000/play/a0fd/index.mpd
