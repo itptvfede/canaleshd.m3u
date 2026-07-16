@@ -58,7 +58,7 @@ http://191.97.63.231:2053/play/a10l/index.mpd
 http://190.7.19.197:232/play/a00o/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd0Q9YSX/sony.png" group-title="CINE",SONY CHANNEL
-http://190.7.19.197:232/play/a01g/index.mpd
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ck/index.m3u8?device_id=8dd09d5ddda9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jv1X21YB/discovery.jpg" group-title="CULTURA",DISCOVERY CHANNEL
 http://38.224.231.47:8000/play/a044/index.mpd
