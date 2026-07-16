@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="VIAWEB",TETS
+https://edgetvp.global.ssl.fastly.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN
 http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/tn_720.m3u8
 
