@@ -38,7 +38,7 @@ http://181.233.180.4:8000/play/a05a/index.mpd
 http://190.5.200.180:8123/play/a0iy/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA",HISTORY
-http://181.233.180.4:8000/play/a051/index.mpd
+http://191.97.63.231:2053/play/a10l/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kp1mkHdD/arg12.jpg" group-title="NOTICIAS",ARG12
 http://190.7.19.197:232/play/a00o/index.mpd
