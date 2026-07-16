@@ -59,7 +59,7 @@ http://38.224.231.47:8000/play/a00x/index.mpd
 http://181.233.180.4:8000/play/a02s/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nnyRLtx/hbo-family.png" group-title="CINE",HBO FAMILY
-http://201.190.41.246:8000/play/a00a/index.mpd
+http://191.97.14.161:9000/play/a06f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRKrzCKQ/eltrece.png" group-title="VARIOS",ELTRECE
 http://190.5.200.183:8123/play/a0j4/index.mpd
