@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN4
 https://ndnqynckgyicfrmkzgpw.supabase.co/storage/v1/object/public/Fdde/Tn_a047.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN
-http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/tn_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP45
 http://45.170.130.224:8000/play/a01l/index.mpd
 
@@ -90,6 +87,5 @@ http://190.7.19.197:232/play/a04l/index.mpd
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0by/index.m3u8?device_id=8dd09d5ddda9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="NOTICIAS",TN
-http://181.233.180.4:8000/play/a058/index.mpd
-
+http://190.7.19.197:232/play/a03l/index.mpd
 
