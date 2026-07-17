@@ -1,9 +1,8 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="Canal_A047" tvg-name="Canal A047" tvg-logo="https://ndnqynckgyicfrmkzgpw.supabase.co/storage/v1/object/public/Fdde/logo_canal.png" group-title="Variedades",Canal A047
-https://ndnqynckgyicfrmkzgpw.supabase.co/storage/v1/object/public/Fdde/canal_a047.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN4
+https://ndnqynckgyicfrmkzgpw.supabase.co/storage/v1/object/public/Fdde/Tn_a047.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN
 http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/tn_720.m3u8
