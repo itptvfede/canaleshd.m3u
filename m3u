@@ -2,6 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
+http://38.19.41.46:8081/CINEMAX/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
