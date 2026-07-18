@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
+https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN4
 https://ndnqynckgyicfrmkzgpw.supabase.co/storage/v1/object/public/Fdde/Tn_a047.m3u8
 
