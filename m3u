@@ -2,6 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
+http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN4
@@ -14,17 +17,14 @@ http://45.170.130.224:8000/play/a01l/index.mpd
 http://38.224.231.47:8000/play/a047
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP1
-http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP2
-http://190.5.200.180:8123/play/a0il/index.mpd
+http://190.5.200.180:8123/play/a0il
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP3
-http://45.170.130.224:8000/play/a020/index.mpd
+http://45.170.130.224:8000/play/a020
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RPdTjdG/turbo.jpg" group-title="CULTURA",DISCOVERY TURBO
-http://209.61.12.132:9000/play/a085/index.mpd
+http://209.61.12.132:9000/play/a085
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
 http://181.233.180.4:8000/play/a01p/index.mpd
