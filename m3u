@@ -1,11 +1,12 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg" group-title="VARIOS",FUTURAMA
 http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",HBO FAMILY
 http://38.224.48.4:8000/play/a0hk/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 http://38.19.41.46:8081/CINEMAX/mpegts
