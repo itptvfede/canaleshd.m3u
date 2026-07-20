@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",STAR HD
+http://45.70.168.162:84/play/a006/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",ADULT HD
 http://191.97.63.231:2053/play/a17y/index.mpd
 
