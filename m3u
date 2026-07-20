@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",FUTBOL 
+https://khala.skylivehd.com/global/espn2/index.m3u8?ip=190.124.153.58&token=306d79b322a49b00dfbe2d2ec568ebf4300d00f7-b6-1784614645-1784560645
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",SPACE HD
 http://177.234.249.135:8888/Univision/index.m3u8
 
