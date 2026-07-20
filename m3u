@@ -1,21 +1,10 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINR
-https://live-01-01-tn.vodgc.net:443/TN_DAI_Beta/indexTN_DAI_Beta_360.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",SPACE HD
 http://177.234.249.135:8888/Univision/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg" group-title="VARIOS",FUTURAMA
-htts://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",HBO FAMILY
 http://38.224.48.4:8000/play/a0hk/index.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 http://38.19.41.46:8081/CINEMAX/mpegts
@@ -26,14 +15,11 @@ http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",TN4
-https://ndnqynckgyicfrmkzgpw.supabase.co/storage/v1/object/public/Fdde/Tn_a047.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP45
 http://45.170.130.224:8000/play/a01l/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqS4F9kM/TNTCINE.png" group-title="CINE",TNT
-http://38.224.231.47:8000/play/a047
+http://38.224.231.47:8000/play/a047/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP2
@@ -64,16 +50,16 @@ http://200.60.124.25:8000/play/a0ks/index.mpd
 http://181.233.180.4:8000/play/a0dg/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv7r5C3H/espn.png" group-title="DEPORTES",ESPN AR
-http://181.233.180.4:8000/play/a05a
+http://181.233.180.4:8000/play/a05a/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n367mcx/TELEFE.jpg" group-title="VARIOS",TELEFE
-http://190.5.200.180:8123/play/a0iy
+http://190.5.200.180:8123/play/a0iy/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA",HISTORY
 http://191.97.63.231:2053/play/a10l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kp1mkHdD/arg12.jpg" group-title="NOTICIAS",ARG12
-http://190.7.19.197:232/play/a00o
+http://190.7.19.197:232/play/a00o/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd0Q9YSX/sony.png" group-title="CINE",SONY CHANNEL
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ck/index.m3u8?device_id=8dd09d5ddda9
@@ -82,10 +68,10 @@ http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ck/index.m3u8?device_id=8dd09d
 http://38.224.231.47:8000/play/a044/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nyPkwfK/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAD CINEMA
-http://181.78.64.21:1010/play/a0pu
+http://181.78.64.21:1010/play/a0pu/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwY5n5SM/GOLDEN.png" group-title="CINE",GOLDEN
-http://38.224.231.47:8000/play/a00x
+http://38.224.231.47:8000/play/a00x/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67HZQwc4/TYC.png" group-title="DEPORTES",TYC
@@ -93,21 +79,21 @@ http://oscam281w.ooguy.com:5000/oveja/negra/Deportes/a0ft/index.m3u8?device_id=8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nnyRLtx/hbo-family.png" group-title="CINE",HBO FAMILY
-http://191.97.14.161:9000/play/a06f
+http://191.97.14.161:9000/play/a06f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRKrzCKQ/eltrece.png" group-title="VARIOS",ELTRECE
-http://190.5.200.183:8123/play/a0j4
+http://190.5.200.183:8123/play/a0j4/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqpmLg8n/ESPN.jpg" group-title="DEPORTES",ESPN PREMIUM
-http://190.7.19.197:232/play/a038
+http://190.7.19.197:232/play/a038/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTdV41hx/MAGAZINE.png" group-title="VARIOS",MAGAZINE
-http://190.7.19.197:232/play/a04l
+http://190.7.19.197:232/play/a04l/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XQW9Qdf/cinemax3.jpg" group-title="CINE",CINEMAX
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0by/index.m3u8?device_id=8dd09d5ddda9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="NOTICIAS",TN
-http://190.7.19.197:232/play/a03l
+http://190.7.19.197:232/play/a03l/index.mpd
 
