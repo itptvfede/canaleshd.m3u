@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",TNT SPORTS PREMIUM
 http://209.14.98.45:8000/play/a0x5/index.mpd
 
