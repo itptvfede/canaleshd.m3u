@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINR
+https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",SPACE HD
 http://177.234.249.135:8888/Univision/index.m3u8
