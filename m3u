@@ -47,9 +47,6 @@ http://45.170.130.224:8000/play/a020
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RPdTjdG/turbo.jpg" group-title="CULTURA",DISCOVERY TURBO
 http://209.61.12.132:9000/play/a085
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
-http://181.233.180.4:8000/play/a01p
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
 http://185.244.235.125:9000/play/a07f/index.mpd
 
@@ -65,7 +62,7 @@ http://190.5.200.180:8123/play/a0iy/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA",HISTORY
 http://191.97.63.231:2053/play/a10l
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kp1mkHdD/arg12.jpg" group-title="NOTICIAS",ARG12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kp1mkHdD/arg12.jpg" group-title="VARIOS",ARG12
 http://190.7.19.197:232/play/a00o/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd0Q9YSX/sony.png" group-title="CINE",SONY CHANNEL
@@ -80,10 +77,6 @@ http://181.78.64.21:1010/play/a0pu/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwY5n5SM/GOLDEN.png" group-title="CINE",GOLDEN
 http://38.224.231.47:8000/play/a00x/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/67HZQwc4/TYC.png" group-title="DEPORTES",TYC
-http://oscam281w.ooguy.com:5000/oveja/negra/Deportes/a0ft/index.m3u8?device_id=8dd09d5ddda9
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nnyRLtx/hbo-family.png" group-title="CINE",HBO FAMILY
 http://191.97.14.161:9000/play/a06f/index.mpd
 
@@ -92,7 +85,7 @@ http://190.5.200.183:8123/play/a0j4/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqpmLg8n/ESPN.jpg" group-title="DEPORTES",ESPN PREMIUM
-http://190.7.19.197:232/play/a038/index.mpd
+http://158.172.155.130:8000/play/a0d8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTdV41hx/MAGAZINE.png" group-title="VARIOS",MAGAZINE
 http://190.7.19.197:232/play/a04l/index.mpd
@@ -100,6 +93,6 @@ http://190.7.19.197:232/play/a04l/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XQW9Qdf/cinemax3.jpg" group-title="CINE",CINEMAX
 http://191.97.63.231:2053/play/a15c/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="NOTICIAS",TN
-http://190.7.19.197:232/play/a03l/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="VARIOS",TN
+http://190.7.19.197:232/play/a03l/index.m3u8
 
