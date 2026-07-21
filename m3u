@@ -83,8 +83,7 @@ http://191.97.14.161:9000/play/a06f/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRKrzCKQ/eltrece.png" group-title="VARIOS",ELTRECE
 http://190.5.200.183:8123/play/a0j4/index.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nqpmLg8n/ESPN.jpg" group-title="DEPORTES",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFqNYQcN/1784668080296.png" group-title="DEPORTES",ESPN 
 http://158.172.155.130:8000/play/a0d8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTdV41hx/MAGAZINE.png" group-title="VARIOS",MAGAZINE
