@@ -12,8 +12,9 @@ http://38.224.231.47:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvLcNy1v/START.png" group-title="24/7",STAR HD
 http://45.70.168.162:84/play/a006/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24
-http://45.70.168.162:84/play/a00c
+http://45.70.168.162:84/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
 http://158.172.155.130:8000/play/a0dp/index.mpd
