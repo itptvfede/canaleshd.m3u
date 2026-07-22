@@ -15,6 +15,11 @@ http://45.70.168.162:84/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="24/7",WALNER CHANNEL
 http://45.70.168.162:84/play/a00c/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XQW9Qdf/cinemax3.jpg" group-title="CINE",CINEMAX
+http://191.97.63.231:2053/play/a15c/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
 http://158.172.155.130:8000/play/a0dp/index.m3u8
 
@@ -93,10 +98,6 @@ http://190.7.19.197:232/play/a037/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTdV41hx/MAGAZINE.png" group-title="VARIOS",MAGAZINE
 http://190.7.19.197:232/play/a04l/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XQW9Qdf/cinemax3.jpg" group-title="CINE",CINEMAX
-http://191.97.63.231:2053/play/a15c/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="VARIOS",TN
