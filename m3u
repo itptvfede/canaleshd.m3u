@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",THE SIMPSONS
+http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24
 http://45.70.168.162:84/play/a00c/index.mpd
 
@@ -26,9 +30,6 @@ http://38.224.48.4:8000/play/a0hk/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 http://38.19.41.46:8081/CINEMAX/mpegts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
-http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
