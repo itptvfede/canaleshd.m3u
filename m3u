@@ -1,7 +1,10 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24
-http://158.172.155.130:8000/play/a0dd/index.m3u8
+http://158.172.155.130:8000/play/a0dd/index.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
 http://158.172.155.130:8000/play/a0dp/index.mpd
