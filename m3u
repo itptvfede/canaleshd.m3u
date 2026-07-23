@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",FUTBOL
+https://m1.domain990.sbs:443/tycint/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=5756bc2981c82d8af3b5317188a02f8e17f18f55-91-1784891411-1784837411
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",THE SIMPSONS
 http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
 
