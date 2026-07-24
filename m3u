@@ -97,6 +97,7 @@ http://190.5.200.183:8123/play/a0j4/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HffYM8dD/1784668344129.png" group-title="DEPORTES",ESPN AR
 http://158.172.155.130:8000/play/a0d8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdQgKbmN/1784668974398.png" group-title="DEPORTES",TNT SPORTS AR
 http://190.7.19.197:232/play/a037/index.m3u8?hls
 
