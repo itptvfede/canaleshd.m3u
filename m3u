@@ -29,6 +29,9 @@ http://191.97.14.161:9000/play/a06f/index.m3u8
 http://38.224.231.47:8000/play/a047/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
+http://38.224.48.4:8000/play/a0os/index.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
@@ -105,9 +108,3 @@ http://190.7.19.197:232/play/a04l/index.m3u8?hls
 http://190.7.19.197:232/play/a03l/index.m3u8?hls
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="VARIOS",space hd
-http://38.224.48.4:8000/play/a0os/index.m3u8
