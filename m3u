@@ -24,12 +24,15 @@ http://190.7.19.197:232/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
 http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
 http://38.224.231.47:8000/play/a047
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
-http://23.153.217.158:8080/964445489tv/51a7en/460
+http://38.224.231.47:8000/play/a04e
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",ADULT HD
+http://191.97.63.231:2053/play/a17y
 
 
 
@@ -42,8 +45,6 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",TNT SPORTS PREMIUM
 http://209.14.98.45:8000/play/a0x5/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",ADULT HD
-http://191.97.63.231:2053/play/a17y/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",SPACE HD
 http://177.234.249.135:8888/Univision/index.m3u8
