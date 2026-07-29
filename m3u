@@ -30,6 +30,9 @@ http://38.224.231.47:8000/play/a047
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
 http://38.224.231.47:8000/play/a04e
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",CINECANAL HD
+http://200.24.131.229:18080/play/a0tl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5VnPXsG/adul.png" group-title="24/7",Adult Swim
 http://191.97.63.231:2053/play/a17y
 
