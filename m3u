@@ -28,9 +28,7 @@ http://191.97.14.161:9000/play/a01e/index.m3u8?hl
 http://38.224.231.47:8000/play/a047
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
-http://190.117.20.35:8000/play/a05v/index.m3u8?hls
-
-
+http://186.33.40.97:8789/play/45
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
 http://158.172.155.130:8000/play/a0dp/index.m3u8
