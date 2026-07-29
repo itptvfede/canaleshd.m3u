@@ -30,7 +30,7 @@ http://38.224.231.47:8000/play/a047
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
 http://38.224.231.47:8000/play/a04e
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",CINECANAL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KzFPDYYQ/cine.png" group-title="VARIOS",CINECANAL HD
 http://200.24.131.229:18080/play/a0tl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5VnPXsG/adul.png" group-title="24/7",Adult Swim
@@ -94,7 +94,7 @@ http://38.224.231.47:8000/play/a044/index.mpd
 http://181.78.64.21:1010/play/a0pu
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRKrzCKQ/eltrece.png" group-title="VARIOS",ELTRECE
-http://190.5.200.183:8123/play/a0j4/index.mpd
+http://190.5.200.183:8123/play/a0j4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HffYM8dD/1784668344129.png" group-title="DEPORTES",ESPN AR
 http://190.7.19.197:232/play/a03n/index.m3u8
