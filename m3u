@@ -1,10 +1,10 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 1
 https://po.tudeporteshoy.xyz:443/espnpremium/tracks-v1a1/mono.m3u8?ip=45.178.2.235&token=d6904d7ea81e9885eafc0deadf39b7e2fbc1823b-c5-1785408420-1785354420
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 2
+https://p2.domain761.sbs:443/tycint/tracks-v1a1/mono.m3u8?ip=45.178.2.235&token=81c7f81b9b9f161196d98ec06603bf0dcc8ac26c-62-1785410189-1785356189
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",THE SIMPSONS
