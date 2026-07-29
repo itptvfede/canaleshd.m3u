@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",PRUEBA
+https://khala.skylivehd.com:443/espn/index.m3u8?ip=190.124.153.58&token=d555d8aef36e08a7566b5de33b22850255c0d9c5-b7-1785407994-1785353994
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",THE SIMPSONS
 http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
 
