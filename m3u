@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 3
+http://45.88.138.39:8080/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsTkFpamNQUlJQbkJlRnlkUWI2V3IrUWJqWlJULzZJTi9CU1hHSXp6dnpVeUNlLzQrMDlhd1FPSHkxQm5VK0lkS1huVnQ5RWN4SnV1c3J1NE9TcGpScGNMeGwvU2FvQ3M2bnhJUFNMMERsOVJJM3NFMThyVzhSUC9sdXVsbUVvTDZrVmhDWkI2bWF6SGlVY2c1TlFBOHJSaWZCQmJGVzB4Qmo5cTB2S1BGMElYdWlhZXlqVCtoVVFuUlBkTzEzTUQ1RTFDcTkvN1lyc0pnbzNrV21tYVYycElFa3I5ZlBXTnIxREVFZUJ4UGVOY0pMRGtpZ215ejFoYkpaWklsQnpISmR4RkljNW9BakNLcjZpTHdNWXBudVFmWk9RRlZRU2g3MHVhM21RMG4xV2VRPT0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 1
 https://po.tudeporteshoy.xyz:443/espnpremium/tracks-v1a1/mono.m3u8?ip=45.178.2.235&token=d6904d7ea81e9885eafc0deadf39b7e2fbc1823b-c5-1785408420-1785354420
@@ -8,7 +11,7 @@ https://po.tudeporteshoy.xyz:443/espnpremium/tracks-v1a1/mono.m3u8?ip=45.178.2.2
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 2
-https://stream-cdn-iad3.vaughnsoft.net/play/live_tuno.flv
+http://stream-cdn-iad3.vaughnsoft.net/play/live_tuno.flv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",THE SIMPSONS
