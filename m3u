@@ -1,12 +1,7 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 1
 http://ziptv.env.pm/live/tntspre.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 1
 https://p2.domain761.sbs/global/espnpremium/index.m3u8?token=3b6cc679e22147fa02fa47a5f3f960aec7171670-11-1785488255-1785434255&ip=190.124.153.58
