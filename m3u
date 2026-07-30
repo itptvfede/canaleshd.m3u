@@ -2,8 +2,11 @@
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 1
 http://ziptv.env.pm/live/tntspre.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 2
 http://stream-cdn-iad2.vaughnsoft.net/play/live_tuno.flv
