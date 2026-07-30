@@ -4,7 +4,7 @@
 https://po.tudeporteshoy.xyz:443/espnpremium/tracks-v1a1/mono.m3u8?ip=45.178.2.235&token=d6904d7ea81e9885eafc0deadf39b7e2fbc1823b-c5-1785408420-1785354420
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 2
-http://stream-cdn-iad3.vaughnsoft.net/play/live_tuno.flv
+http://stream-cdn-iad2.vaughnsoft.net/play/live_tuno.flv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DZ5HjYH/SIMP.jpg" group-title="24/7",THE SIMPSONS
 http://138.118.213.244:85/Live/4e91d7971bb4c4e7ebd26ccad72c88d1/online-24-7_480.m3u8
