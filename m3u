@@ -2,13 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",TN
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/indexTN_DAI_Beta_360.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 1
-https://po.tudeporteshoy.xyz:443/espnpremium/tracks-v1a1/mono.m3u8?ip=45.178.2.235&token=d6904d7ea81e9885eafc0deadf39b7e2fbc1823b-c5-1785408420-1785354420
+http://ziptv.env.pm/live/tntspre.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",EVENTOS 2
 http://stream-cdn-iad2.vaughnsoft.net/play/live_tuno.flv
