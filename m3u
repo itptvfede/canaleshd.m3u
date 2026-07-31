@@ -47,10 +47,8 @@ http://38.224.231.47:8000/play/a048
 http://191.97.63.231:2053/play/a17y
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRKrzCKQ/eltrece.png" group-title="VARIOS",ELTRECE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="VARIOS",ELTRECE
 http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
-
 
 
 
