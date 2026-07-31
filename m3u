@@ -53,6 +53,9 @@ http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxLx0pgs/TN.jpg" group-title="VARIOS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6cpPRsW/TYC.jpg" group-title="DEPORTES",TYC AR
+http://181.209.105.115:2525/play/tycsports/index.m3u8?hl
+
 
 
 
@@ -93,8 +96,6 @@ http://185.244.235.125:9000/play/a07f/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP3
 http://200.60.124.25:8000/play/a0ks/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6cpPRsW/TYC.jpg" group-title="DEPORTES",TYC AR
-http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n367mcx/TELEFE.jpg" group-title="VARIOS",TELEFE
 http://158.172.155.130:8000/play/a00h/index.m3u8
