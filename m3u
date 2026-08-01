@@ -55,7 +55,7 @@ http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="NOTICIAS",C5N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv3RJHFN/C5N.png" group-title="NOTICIAS",C5N
 http://181.209.105.115:2525/play/c5n/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJMfBy5r/tyc.jpg" group-title="DEPORTES",TYC AR
