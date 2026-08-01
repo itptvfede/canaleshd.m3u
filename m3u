@@ -61,6 +61,10 @@ http://181.209.105.115:2525/play/tycsports/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="VARIOS",TELEFE
 http://181.209.105.115:2525/play/telefe/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RPdTjdG/turbo.jpg" group-title="CULTURA",DISCOVERY TURBO
+http://181.209.105.115:2525/play/discoveryturbo/index.m3u8?hl
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
 http://158.172.155.130:8000/play/a0dp/index.m3u8
@@ -90,8 +94,6 @@ http://190.5.200.180:8123/play/a0il
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="TETS",OP3
 http://45.170.130.224:8000/play/a020
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RPdTjdG/turbo.jpg" group-title="CULTURA",DISCOVERY TURBO
-http://209.61.12.132:9000/play/a085
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
 http://185.244.235.125:9000/play/a07f/index.mpd
