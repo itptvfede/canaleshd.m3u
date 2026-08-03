@@ -1,8 +1,8 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wF4TSbcs/chavo2.jpg" group-title="24/7",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDJXpkCM/monitv.jpg" group-title="24/7",MONITV
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
