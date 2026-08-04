@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wF4TSbcs/chavo2.jpg" group-title="DEPORTES",ESPN 1 AR
+http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wF4TSbcs/chavo2.jpg" group-title="24/7",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
