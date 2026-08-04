@@ -49,6 +49,9 @@ http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="VARIOS",AMERICATV AR
 http://181.115.239.66:8000/play/a00i/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="VARIOS",TELEFE
+http://181.209.105.115:2525/play/telefe/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
 
@@ -70,8 +73,6 @@ http://181.209.105.115:2525/play/tntsports/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ccc2qV8X/ESPN-P.jpg" group-title="DEPORTES",ESPN PREMIUM AR
 http://181.209.105.115:2525/play/espnpremium/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="VARIOS",TELEFE
-http://181.209.105.115:2525/play/telefe/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kktTLyC/nueve.jpg" group-title="VARIOS",ELNUEVE
 http://181.209.105.115:2525/play/elnueve/index.m3u8?hl
