@@ -46,7 +46,7 @@ http://191.97.63.231:2053/play/a17y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="VARIOS",ELTRECE AR
 http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="VARIOS",AMERICATV AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="VARIOS",AMERICATV AR
 http://181.115.239.66:8000/play/a00i/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
