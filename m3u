@@ -40,9 +40,6 @@ http://191.97.63.231:2053/play/a17y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="VARIOS",ELTRECE
 http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kp1mkHdD/arg12.jpg" group-title="NOTICIAS",ARG12
-http://45.181.120.147:9800/play/109/index.m3u8?hl
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
 
@@ -54,6 +51,9 @@ http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJMfBy5r/tyc.jpg" group-title="DEPORTES",TYC AR
 http://181.209.105.115:2525/play/tycsports/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FM0kkJc/TYC2.png" group-title="DEPORTES",TYC2
+http://45.181.120.147:9800/play/109/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZN4bVt6/tnt-sports.png" group-title="DEPORTES",TNT SPORTS AR
 http://181.209.105.115:2525/play/tntsports/index.m3u8?hl
@@ -127,12 +127,7 @@ http://38.224.231.47:8000/play/a044/index.mpd
 http://181.78.64.21:1010/play/a0pu
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HffYM8dD/1784668344129.png" group-title="DEPORTES",ESPN AR
-http://190.7.19.197:232/play/a03n/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdQgKbmN/1784668974398.png" group-title="DEPORTES",TNT SPORTS AR
-http://190.7.19.197:232/play/a037/index.m3u8?hls
 
 
 
