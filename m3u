@@ -9,7 +9,7 @@ http://45.173.203.73:12000/play/a07l/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDJXpkCM/monitv.jpg" group-title="24/7",MONITV
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8nyPkwfK/UNIVERSAL-CINEMA.jpg" group-title="CINE",UNIVERSAD CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWgqhQS5/universad.png" group-title="CINE",UNIVERSAD CINEMA
 http://45.173.203.73:12000/play/a01f/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKzphCH0/G.png" group-title="CINE",GOLDEN
