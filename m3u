@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wF4TSbcs/chavo2.jpg" group-title="CULTURA",love nature
-http://45.173.203.73:12000/play/a0g7/index.m3u8?hl
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wF4TSbcs/chavo2.jpg" group-title="24/7",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
@@ -73,6 +69,9 @@ http://181.209.105.115:2525/play/elnueve/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="VARIOS",MAGAZINE
 http://181.115.239.66:8000/play/a038/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrphKtj6/LOVE.jpg" group-title="CULTURA",love nature
+http://45.173.203.73:12000/play/a0g7/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NdqNKDdr/turbo.png" group-title="CULTURA",DISCOVERY TURBO
 http://181.209.105.115:2525/play/discoveryturbo/index.m3u8?hl
