@@ -4,7 +4,7 @@
 http://181.115.239.66:8000/play/a038
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="CINE",MI PELICULA
-http://45.173.203.73:12000/play/a07l/index.m3u8?hl
+http://45.173.203.73:12000/play/a07l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS 
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
