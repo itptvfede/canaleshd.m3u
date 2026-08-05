@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",TN
-https://live-01-01-tn.vodgc.net:443/TN_DAI_Beta/indexTN_DAI_Beta_360.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS 
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
