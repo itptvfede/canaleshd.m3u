@@ -61,6 +61,9 @@ http://181.209.105.115:2525/play/tn/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv3RJHFN/C5N.png" group-title="NOTICIAS",C5N
 http://181.209.105.115:2525/play/c5n/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycF2dCvx/cronicatv.jpg" group-title="NOTICIAS",CRONICATV
+http://181.209.105.115:2525/play/cronica/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFrtL4zc/ESPN1AR.png" group-title="DEPORTES",ESPN 1 AR
 http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
 
