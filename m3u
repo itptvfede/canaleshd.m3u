@@ -36,7 +36,6 @@ http://191.97.63.231:2053/play/a15c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE",SONY CHANNEL
 http://181.209.105.115:2525/play/sonyhd/index.m3u8?hl
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
 http://38.224.231.47:8000/play/a03x/index.m3u8?hls
 
@@ -65,7 +64,7 @@ http://181.115.239.66:8000/play/a00i/index.m3u8?hls
 http://181.209.105.115:2525/play/telefe/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="VARIOS",MAGAZINE
-http://181.115.239.66:8000/play/a038/index.m3u8?hls
+http://181.115.239.66:8000/play/a038
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
