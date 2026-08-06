@@ -65,7 +65,7 @@ http://181.115.239.66:8000/play/a00i/index.m3u8?hls
 http://181.209.105.115:2525/play/telefe/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="VARIOS",MAGAZINE
-http://181.115.239.66:8000/play/a038index.m3u8?hl
+http://181.115.239.66:8000/play/a038/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
