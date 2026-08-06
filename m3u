@@ -19,25 +19,25 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWgqhQS5/universad.png" group-title="CINE",UNIVERSAD CINEMA
-http://45.173.203.73:12000/play/a01f/index.m3u8?hl
+http://45.173.203.73:12000/play/a01f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKzphCH0/G.png" group-title="CINE",GOLDEN
-http://38.224.231.47:8000/play/a00x/index.m3u8
+http://38.224.231.47:8000/play/a00x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvLcNy1v/START.png" group-title="24/7",STAR HD
-http://45.70.168.162:84/play/a006/index.m3u8
+http://45.70.168.162:84/play/a006
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="24/7",WALNER CHANNEL
-http://45.70.168.162:84/play/a00c/index.m3u8
+http://45.70.168.162:84/play/a00c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE",CINEMAX
-http://191.97.63.231:2053/play/a15c/index.m3u8
+http://191.97.63.231:2053/play/a15c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE",SONY CHANNEL
 http://181.209.105.115:2525/play/sonyhd/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
-http://38.224.231.47:8000/play/a03x/index.m3u8?hls
+http://38.224.231.47:8000/play/a03x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
 http://38.224.231.47:8000/play/a047
@@ -49,7 +49,7 @@ http://38.224.231.47:8000/play/a04e
 http://38.224.231.47:8000/play/a048
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvQnDHm2/FHM-MOVIES.png" group-title="VARIOS",FMH MOVIES
-http://45.181.120.147:9800/play/082/index.m3u8?hl
+http://45.181.120.147:9800/play/082
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5VnPXsG/adul.png" group-title="24/7",Adult Swim
 http://191.97.63.231:2053/play/a17y
@@ -58,7 +58,7 @@ http://191.97.63.231:2053/play/a17y
 http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="VARIOS",AMERICATV AR
-http://181.115.239.66:8000/play/a00i/index.m3u8?hls
+http://181.115.239.66:8000/play/a00i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="VARIOS",TELEFE
 http://181.209.105.115:2525/play/telefe/index.m3u8?hl
@@ -76,10 +76,10 @@ http://181.209.105.115:2525/play/c5n/index.m3u8?hl
 http://181.209.105.115:2525/play/cronica/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFrtL4zc/ESPN1AR.png" group-title="DEPORTES",ESPN 1 AR
-http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
+http://45.173.203.73:12000/play/a0ei
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7zRZvkV/espn5.png" group-title="DEPORTES",ESPN 5
-http://45.181.120.147:9800/play/112/index.m3u8?hl
+http://45.181.120.147:9800/play/112
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJMfBy5r/tyc.jpg" group-title="DEPORTES",TYC AR
 http://181.209.105.115:2525/play/tycsports/index.m3u8?hl
