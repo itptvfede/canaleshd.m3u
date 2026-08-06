@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="CINE",MI PELICULA
 http://45.173.203.73:12000/play/a07l/index.m3u8?hl
 
@@ -28,6 +27,9 @@ http://181.209.105.115:2525/play/c5n/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycF2dCvx/cronicatv.jpg" group-title="NOTICIAS",CRONICATV
 http://181.209.105.115:2525/play/cronica/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kktTLyC/nueve.jpg" group-title="NACIONALES",ELNUEVE
+http://181.209.105.115:2525/play/elnueve/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="NACIONALES",TELEFE
 http://181.209.105.115:2525/play/telefe/index.m3u8?hl
 
@@ -42,6 +44,10 @@ http://181.115.239.66:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJMfBy5r/tyc.jpg" group-title="DEPORTES",TYC AR
 http://181.209.105.115:2525/play/tycsports/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFrtL4zc/ESPN1AR.png" group-title="DEPORTES",ESPN 1 AR
+http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
+
 
 
 
@@ -92,8 +98,7 @@ http://191.97.63.231:2053/play/a17y
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFrtL4zc/ESPN1AR.png" group-title="DEPORTES",ESPN 1 AR
-http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7zRZvkV/espn5.png" group-title="DEPORTES",ESPN 5
 http://45.181.120.147:9800/play/112
@@ -109,8 +114,7 @@ http://181.209.105.115:2525/play/tntsports/index.m3u8?hl
 http://181.209.105.115:2525/play/espnpremium/index.m3u8?hl
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kktTLyC/nueve.jpg" group-title="VARIOS",ELNUEVE
-http://181.209.105.115:2525/play/elnueve/index.m3u8?hl
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrphKtj6/LOVE.jpg" group-title="CULTURA",love nature
 http://45.173.203.73:12000/play/a0g7/index.m3u8?hl
