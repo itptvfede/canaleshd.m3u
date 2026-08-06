@@ -18,6 +18,30 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDJXpkCM/monitv.jpg" group-title="24/7",MONITV
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="NOTICIAS",TN
+http://181.209.105.115:2525/play/tn/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv3RJHFN/C5N.png" group-title="NOTICIAS",C5N
+http://181.209.105.115:2525/play/c5n/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycF2dCvx/cronicatv.jpg" group-title="NOTICIAS",CRONICATV
+http://181.209.105.115:2525/play/cronica/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="NACIONALES",TELEFE
+http://181.209.105.115:2525/play/telefe/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="NACIONALES",ELTRECE AR
+http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="NACIONALES",AMERICATV AR
+http://181.115.239.66:8000/play/a00i/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWgqhQS5/universad.png" group-title="CINE",UNIVERSAD CINEMA
 http://45.173.203.73:12000/play/a01f
 
@@ -55,26 +79,16 @@ http://45.181.120.147:9800/play/082
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5VnPXsG/adul.png" group-title="24/7",Adult Swim
 http://191.97.63.231:2053/play/a17y
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="VARIOS",ELTRECE AR
-http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="VARIOS",AMERICATV AR
-http://181.115.239.66:8000/play/a00i
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="VARIOS",TELEFE
-http://181.209.105.115:2525/play/telefe/index.m3u8?hl
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="VARIOS",MAGAZINE
 http://181.115.239.66:8000/play/a038
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="VARIOS",TN
-http://181.209.105.115:2525/play/tn/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pv3RJHFN/C5N.png" group-title="NOTICIAS",C5N
-http://181.209.105.115:2525/play/c5n/index.m3u8?hl
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycF2dCvx/cronicatv.jpg" group-title="NOTICIAS",CRONICATV
-http://181.209.105.115:2525/play/cronica/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFrtL4zc/ESPN1AR.png" group-title="DEPORTES",ESPN 1 AR
 http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
