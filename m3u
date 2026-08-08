@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
-http://45.15.209.8:8080/live/4541772040472/6e84ad902b1b/52470.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
+http://45.15.209.8:8080/live/4541772040472/6e84ad902b1b/52470.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="CINE",MI PELICULA
 http://45.173.203.73:12000/play/a07l/index.m3u8?hl
