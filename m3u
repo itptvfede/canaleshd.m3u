@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="EVENTOS",OP7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
 http://hnsefpop.top:8080/live/4541772040472/6e84ad902b1b/52470.m3u8
 
 
