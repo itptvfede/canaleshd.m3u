@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
-http://miotv.cc:8080/live/tanogrijalva/MfBQu2PVwt/187361.m3u8
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="24/7",MI PELICULA
 http://45.173.203.73:12000/play/a07l/index.m3u8?hl
