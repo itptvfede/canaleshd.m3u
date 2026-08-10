@@ -2,7 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP
-https://po.tudeporteshoy.xyz:443/espn/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=d943ae28387647a1648de219b14e71529c4efca8-12-1786272507-1786218507
+http://miotv.cc:8080/NDU5ZHNBSUZrNjhIcllYUVVNTFEwcHJ5VXh0djJPK2E3V0FBY1FkbXdMST0
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
 http://190.60.36.103:8000/play/a036/index.m3u8
