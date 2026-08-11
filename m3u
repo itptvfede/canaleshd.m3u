@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP 1
 http://miotv.cc:8080/OFEwZngwMkl6bGpNWDVRakpiTkJDeFJ6b1V5Z0VjVUJlK1Jzb2Fiamsrcz0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP2
 http://190.60.36.103:8000/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP3
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="24/7",MI PELICULA
