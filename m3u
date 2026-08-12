@@ -27,6 +27,9 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="24/7",THE SIMPSONS OP3
 http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
 http://38.224.231.47:8000/play/a03x
 
@@ -41,6 +44,10 @@ http://38.224.231.47:8000/play/a04a/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
 http://38.224.231.47:8000/play/a00y/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KzFPDYYQ/cine.png" group-title="VARIOS",CINECANAL HD
+http://38.224.231.47:8000/play/a048
+
 
 
 
@@ -118,8 +125,7 @@ http://191.97.63.231:2053/play/a15c
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KzFPDYYQ/cine.png" group-title="VARIOS",CINECANAL HD
-http://38.224.231.47:8000/play/a048
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvQnDHm2/FHM-MOVIES.png" group-title="VARIOS",FMH MOVIES
@@ -161,8 +167,7 @@ http://181.209.105.115:2525/play/discoveryturbo/index.m3u8?hl
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",CINE 24/7
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",TNT SPORTS PREMIUM
 http://209.14.98.45:8000/play/a0x5/index.mpd
