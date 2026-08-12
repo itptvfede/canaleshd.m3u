@@ -54,6 +54,14 @@ http://38.224.231.47:8000/play/a00x
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPc8HRz0/EUROPA.jpg" group-title="CINE",EUROPA EUROPA
 http://38.224.231.47:8000/play/a00z/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvLcNy1v/START.png" group-title="CINE",STAR HD
+http://45.70.168.162:84/play/a006
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="CINE",WALNER CHANNEL
+http://45.70.168.162:84/play/a00c
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="NOTICIAS",TN
@@ -114,11 +122,7 @@ http://45.173.203.73:12000/play/a01f
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvLcNy1v/START.png" group-title="24/7",STAR HD
-http://45.70.168.162:84/play/a006
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="24/7",WALNER CHANNEL
-http://45.70.168.162:84/play/a00c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE",CINEMAX
 http://191.97.63.231:2053/play/a15c
