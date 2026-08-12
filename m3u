@@ -48,6 +48,10 @@ http://38.224.231.47:8000/play/a00y/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KzFPDYYQ/cine.png" group-title="VARIOS",CINECANAL HD
 http://38.224.231.47:8000/play/a048
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKzphCH0/G.png" group-title="CINE",GOLDEN
+http://38.224.231.47:8000/play/a00x
+
+
 
 
 
@@ -109,8 +113,7 @@ http://38.236.104.167:51002/play/a0fa/index.m3u8?hs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWgqhQS5/universad.png" group-title="CINE",UNIVERSAD CINEMA
 http://45.173.203.73:12000/play/a01f
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKzphCH0/G.png" group-title="CINE",GOLDEN
-http://38.224.231.47:8000/play/a00x
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvLcNy1v/START.png" group-title="24/7",STAR HD
 http://45.70.168.162:84/play/a006
