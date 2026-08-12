@@ -27,6 +27,22 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="24/7",THE SIMPSONS OP3
 http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
+http://38.224.231.47:8000/play/a03x
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
+http://38.224.231.47:8000/play/a047
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
+http://38.224.231.47:8000/play/a04e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE",SONY CHANNEL
+http://190.60.36.103:8000/play/a06f/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="NOTICIAS",TN
 http://181.209.105.115:2525/play/tn/index.m3u8?hl
 
@@ -95,17 +111,9 @@ http://45.70.168.162:84/play/a00c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE",CINEMAX
 http://191.97.63.231:2053/play/a15c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE",SONY CHANNEL
-http://190.60.36.103:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
-http://38.224.231.47:8000/play/a03x
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
-http://38.224.231.47:8000/play/a047
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
-http://38.224.231.47:8000/play/a04e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KzFPDYYQ/cine.png" group-title="VARIOS",CINECANAL HD
 http://38.224.231.47:8000/play/a048
@@ -155,13 +163,6 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",TNT SPORTS PREMIUM
 http://209.14.98.45:8000/play/a0x5/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",SPACE HD
-http://177.234.249.135:8888/Univision/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",HBO FAMILY
-http://38.224.48.4:8000/play/a0hk/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",PRUEBA
 http://38.19.41.46:8081/CINEMAX/mpegts
