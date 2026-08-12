@@ -36,7 +36,7 @@ http://38.224.231.47:8000/play/a03x
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
 http://38.224.231.47:8000/play/a047
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="VARIOS",space hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="CINE",SPACE
 http://38.224.231.47:8000/play/a04e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE",SONY CHANNEL
