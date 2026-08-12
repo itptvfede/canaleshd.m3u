@@ -76,13 +76,6 @@ http://181.115.239.66:8000/play/a038/index.m3u8
 http://158.172.155.130:8000/play/a00h/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pv3RJHFN/C5N.png" group-title="NOTICIAS",C5N
-http://181.209.105.115:2525/play/c5n/index.m3u8?hl
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycF2dCvx/cronicatv.jpg" group-title="NOTICIAS",CRONICATV
-http://181.209.105.115:2525/play/cronica/index.m3u8?hl
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kktTLyC/nueve.jpg" group-title="NACIONALES",ELNUEVE
 http://181.209.105.115:2525/play/elnueve/index.m3u8?hl
 
