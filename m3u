@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP 1
 http://miotv.cc:8080/OFEwZngwMkl6bGpNWDVRakpiTkJDeFJ6b1V5Z0VjVUJlK1Jzb2Fiamsrcz0
 
@@ -22,10 +21,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="24/7",THE SIMPSONS
 http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="VARIOS",THE SIMPSONS OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="24/7",THE SIMPSONS OP2
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="VARIOS",THE SIMPSONS OP3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="24/7",THE SIMPSONS OP3
 http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="NOTICIAS",TN
