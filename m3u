@@ -69,7 +69,7 @@ http://181.115.239.66:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="ARGENTINA",MAGAZINE
 http://181.115.239.66:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="ARGENTINA",TELEFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="ARGENTINA",TELEFE
 http://158.172.155.130:8000/play/a00h/index.m3u8
 
 
