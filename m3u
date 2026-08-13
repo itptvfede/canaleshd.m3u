@@ -15,7 +15,7 @@ http://miotv.cc:8080/live/tanogrijalva/MfBQu2PVwt/369715.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="24/7",MI PELICULA
 http://45.173.203.73:12000/play/a07l/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="24/7",ELTRECE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="24/7",ELTRECE
 https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDJXpkCM/monitv.jpg" group-title="24/7",MONITV
