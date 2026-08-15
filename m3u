@@ -19,7 +19,7 @@ http://23.153.217.158:8080/live/964445489tv/51a7en/460.m3u8
 http://45.173.203.73:12000/play/a07l/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="24/7",ELTRECE
-http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv
+https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDJXpkCM/monitv.jpg" group-title="24/7",MONITV
 https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
