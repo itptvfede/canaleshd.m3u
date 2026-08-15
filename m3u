@@ -85,16 +85,6 @@ http://181.115.239.66:8000/play/a038/index.m3u8
 http://158.172.155.130:8000/play/a00h/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kktTLyC/nueve.jpg" group-title="NACIONALES",ELNUEVE
-http://181.209.105.115:2525/play/elnueve/index.m3u8?hl
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="NACIONALES",TELEFE
-http://181.209.105.115:2525/play/telefe/index.m3u8?hl
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZjNk2VX/TRECE.jpg" group-title="NACIONALES",ELTRECE AR
-http://181.209.105.115:2525/play/eltrece/index.m3u8?hl
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJMfBy5r/tyc.jpg" group-title="DEPORTES",TYC AR
