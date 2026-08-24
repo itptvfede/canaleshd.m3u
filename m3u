@@ -78,7 +78,7 @@ http://181.115.239.66:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwDztkNz/telefe.jpg" group-title="ARGENTINA",TELEFE
 http://158.172.155.130:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJMfBy5r/tyc.jpg" group-title="DEPORTES",TYC AR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0p4nZFxx/tyc.jpg" group-title="DEPORTES",TYC AR
 http://190.108.91.64:8000/play/a0c0/index.m3u8?hl
 
 
