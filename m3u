@@ -54,7 +54,7 @@ http://38.224.231.47:8000/play/a048
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE",CINEMAX
 http://191.97.63.231:2053/play/a15c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cKzphCH0/G.png" group-title="CINE",GOLDEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvbZ0D59/golden.png" group-title="CINE",GOLDEN
 http://38.224.231.47:8000/play/a00x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPc8HRz0/EUROPA.jpg" group-title="CINE",EUROPA EUROPA
