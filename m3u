@@ -66,7 +66,7 @@ http://45.70.168.162:84/play/a006
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="CINE",WALNER CHANNEL
 http://45.70.168.162:84/play/a00c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sw1fGcjj/TN.jpg" group-title="ARGENTINA",TN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARGENTINA",TN
 http://181.209.38.115:8000/play/a032/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="ARGENTINA",AMERICATV AR
