@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJmW8RqK/CNCITY.jpg" group-title="24/7",CN CITY
-https://envivo.cncity.live/hls/envivo.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
 http://
 
@@ -21,6 +18,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHJDP31p/chavo3.jpg" group-title="24/7",EL CHAVO
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJmW8RqK/CNCITY.jpg" group-title="24/7",CN CITY
+https://envivo.cncity.live/hls/envivo.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3MVm0DG/SIMPSONS.jpg" group-title="24/7",THE SIMPSONS
 http://lbgo.bozztv.com/ssh101/ssh101/simplat/chunks.m3u8
 
@@ -33,7 +33,7 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh2tpkZC/bayrestv.png" group-title="24/7",BAYRESTV
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTVNddPX/family.png" group-title="CINE",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
 http://38.224.231.47:8000/play/a03x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
