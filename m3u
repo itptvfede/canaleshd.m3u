@@ -36,7 +36,7 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
 http://38.224.231.47:8000/play/a03x
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PvRsD6PM/tnt.png" group-title="CINE",TNT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5MzQ5mj/tnt.png" group-title="CINE",TNT
 http://38.224.231.47:8000/play/a047
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="CINE",SPACE
