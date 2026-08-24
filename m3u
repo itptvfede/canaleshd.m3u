@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",CN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJmW8RqK/CNCITY.jpg" group-title="24/7",CN CITY
 https://envivo.cncity.live/hls/envivo.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
 http://
