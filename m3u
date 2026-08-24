@@ -45,8 +45,7 @@ http://38.224.231.47:8000/play/a04e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE",SONY CHANNEL
 http://181.209.38.115:8000/play/a016/index.m3u8?hl
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9HZRB3P6/TCM.png" group-title="CINE",TCM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7GT4jd0/TCM.png" group-title="CINE",TCM
 http://38.224.231.47:8000/play/a00y/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KzFPDYYQ/cine.png" group-title="CINE",CINECANAL HD
