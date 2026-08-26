@@ -34,7 +34,8 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
-http://138.121.113.175:8000/play/a081/index.m3u8?hl
+http://38.224.231.47:8000/play/a03x/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5MzQ5mj/tnt.png" group-title="CINE",TNT
