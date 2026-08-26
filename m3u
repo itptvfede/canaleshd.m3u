@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",CANAL FX
-http://200.59.213.66:8000/play/a01c/index.m3u8?hl
+http://200.59.213.66:8000/play/a01c/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
