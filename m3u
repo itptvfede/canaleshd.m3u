@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",ESPN AR
+http://181.209.38.115:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",DIRECTV
 http://138.121.113.175:8000/play/a0bx/index.m3u8?hl
 
