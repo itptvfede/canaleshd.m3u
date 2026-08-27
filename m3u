@@ -1,7 +1,8 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",B
-http://miotv.cc:8080/NDU5ZHNBSUZrNjhIcllYUVVNTFEwakdjTjNOais1enRjVjJpM0NORnNnbz0
+http://miotv.cc:8080/live/tanogrijalva/MfBQu2PVwt/369715.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",ESPN AR
 http://181.209.38.115:8000/play/a00b/index.m3u8
