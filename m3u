@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",TIGO SPORTS
+#EXTINF:-1 tvg-lhttp://181.224.255.210:8001/play/a0pk/index.m3u8ogo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",LATINA PERU
+http://181.224.255.210:8001/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-lhttp://181.224.255.210:8001/play/a0pk/index.m3u8ogo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",TIGO SPORTS
 http://45.5.117.57:5550/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",1984
