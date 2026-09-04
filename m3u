@@ -31,12 +31,6 @@ http://143.0.67.56:8000/play/a06h/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",CANAL FX
 http://200.59.213.66:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP1
-http://
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",OP2
-http://
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxhPngzS/mipelicula.png" group-title="24/7",MI PELICULA
 http://45.173.203.73:12000/play/a07l/index.m3u8?hl
 
@@ -67,11 +61,8 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
 http://38.224.231.47:8000/play/a03x/index.m3u8?hls
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5MzQ5mj/tnt.png" group-title="CINE",TNT
 http://138.121.113.175:8000/play/a09i/index.m3u8?hl
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDS3SJ7/space.png" group-title="CINE",SPACE
 http://38.224.231.47:8000/play/a04e
@@ -114,7 +105,6 @@ http://158.172.155.130:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0p4nZFxx/tyc.jpg" group-title="DEPORTES",TYC AR
 http://190.108.91.64:8000/play/a0c0/index.m3u8?hl
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FM0kkJc/TYC2.png" group-title="DEPORTES",TYC2
 http://45.181.120.147:9800/play/109/index.m3u8?hl
