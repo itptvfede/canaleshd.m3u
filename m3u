@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W4FsVhtH/espnpremijm.png" group-title="EVENTOS",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLJm8bM2/espn-premiym.png" group-title="EVENTOS",ESPN PREMIUM
 http://143.0.67.56:8000/play/a078/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39TcvQRb/tigo-sports.png" group-title="EVENTOS",TIGO SPOTTS
