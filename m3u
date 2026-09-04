@@ -18,7 +18,7 @@ http://181.224.255.210:8001/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4X4bqz6/L1MAX.png" group-title="EVENTOS",L1MAX
 http://38.224.231.176:8000/play/a02m/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",DIRECTV SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv3h0t33/DSPORTS.png" group-title="EVENTOS",DIRECTV SPORTS 
 http://143.0.67.56:8000/play/a0dk/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spJZ3Txs/eventos.png" group-title="EVENTOS",ESPN PREMIUM
