@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLJm8bM2/espn-premiym.png" group-title="EVENTOS",TNT SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7wbWLR1/tnt.png" group-title="EVENTOS",TNT SPORTS
 http://143.0.67.56:8000/play/a0bc/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLJm8bM2/espn-premiym.png" group-title="EVENTOS",ESPN PREMIUM
