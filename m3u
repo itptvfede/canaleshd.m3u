@@ -92,7 +92,7 @@ http://38.224.231.47:8000/play/a00x
 http://38.224.231.47:8000/play/a00z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvLcNy1v/START.png" group-title="CINE",STAR HD
-http://45.70.168.162:84/play/a006
+http://45.173.203.73:12000/play/a0a5/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="CINE",WALNER CHANNEL
 http://45.70.168.162:84/play/a00c
