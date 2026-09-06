@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7wbWLR1/tnt.png" group-title="EVENTOS",EVENTO 1
-https://14.domhsd.com/tntsports/tracks-v1a1/mono.m3u8?ip=190.124.153.58&token=4e485b6bcc416edd4376940c9108c4205ff33b29-b8-1788692588-1788638588
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7wbWLR1/tnt.png" group-title="EVENTOS",TNT SPORTS
-http://143.0.67.56:8000/play/a0bc/index.m3u8?hl
+http://181.209.38.115:8000/play/a00j/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLJm8bM2/espn-premiym.png" group-title="EVENTOS",ESPN PREMIUM
 http://143.0.67.56:8000/play/a078/index.m3u8?hl
