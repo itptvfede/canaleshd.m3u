@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0p4nZFxx/tyc.jpg" group-title="CANAL9SANLUIS",TYC AR
+https://edge.enhdtv.com/canal9sanluis/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0p4nZFxx/tyc.jpg" group-title="DEPORTES",TYC AR
 http://190.108.91.64:8000/play/a0c0/index.m3u8?hl
 
