@@ -231,7 +231,8 @@ http://200.60.124.25:8000/play/a0ks/index.mpd
 http://158.172.155.130:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA",HISTORY
-http://191.97.63.231:2053/play/a10l
+http://38.236.104.167:51002/play/a0g8/index.m3u8?hs
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jv1X21YB/discovery.jpg" group-title="CULTURA",DISCOVERY CHANNEL
 http://38.224.231.47:8000/play/a044
