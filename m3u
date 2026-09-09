@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="LOCALES",CANAL 9 SAN LUIS
 https://edge.enhdtv.com/canal9sanluis/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0p4nZFxx/tyc.jpg" group-title="DEPORTES",ESPN AR
+http://181.209.38.115:8000/play/a00b/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0p4nZFxx/tyc.jpg" group-title="DEPORTES",TYC AR
 http://190.108.91.64:8000/play/a0c0/index.m3u8?hl
 
