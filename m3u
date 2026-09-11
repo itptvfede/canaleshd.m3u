@@ -6,6 +6,9 @@ https://edge.enhdtv.com/canal9sanluis/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j1s9ts1/CRONICATV.png" group-title="NOTICIAS",CRONICATV
 http://200.59.213.66:8000/play/a00x/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j1s9ts1/CRONICATV.png" group-title="NOTICIAS",C5N
+http://181.209.38.115:8000/play/a03e/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARGENTINA",TN
 http://181.209.38.115:8000/play/a032/index.m3u8?hl
 
