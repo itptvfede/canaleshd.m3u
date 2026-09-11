@@ -15,6 +15,12 @@ http://158.172.155.130:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgSqn3By/trece.jpg" group-title="ARGENTINA",ELTRECE
 http://181.209.38.115:8000/play/a00n/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="ARGENTINA",AMERICATV AR
+http://181.115.239.66:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="ARGENTINA",MAGAZINE
+http://181.115.239.66:8000/play/a038/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMNNVffN/espn.png" group-title="DEPORTES",ESPN AR
 http://181.209.38.115:8000/play/a00b/index.m3u8?hl
 
@@ -122,12 +128,6 @@ http://45.173.203.73:12000/play/a0a5/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="CINE",WALNER CHANNEL
 http://45.70.168.162:84/play/a00c
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="ARGENTINA",AMERICATV AR
-http://181.115.239.66:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="ARGENTINA",MAGAZINE
-http://181.115.239.66:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFrtL4zc/ESPN1AR.png" group-title="DEPORTES",ESPN 1 AR
 http://45.173.203.73:12000/play/a0ei/index.m3u8?hl
