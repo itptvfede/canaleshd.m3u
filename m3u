@@ -24,6 +24,9 @@ http://181.115.239.66:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="ARGENTINA",MAGAZINE
 http://181.115.239.66:8000/play/a038/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxn8jSLC/DCHANNEL.jpg" group-title="CULTURA",DISCOVERY CHANNEL
+http://200.59.213.66:8000/play/a01y/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMNNVffN/espn.png" group-title="DEPORTES",ESPN AR
 http://181.209.38.115:8000/play/a00b/index.m3u8?hl
 
@@ -241,8 +244,7 @@ http://38.224.175.2:8000/play/a068/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA",HISTORY 2
 http://38.224.175.2:8000/play/a0tk/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxn8jSLC/DCHANNEL.jpg" group-title="CULTURA",DISCOVERY CHANNEL
-http://200.59.213.66:8000/play/a01y/index.m3u8?hl
+
 
 
 
