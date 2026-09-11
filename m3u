@@ -12,7 +12,7 @@ http://181.209.38.115:8000/play/a032/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5C16BNW/telefe.jpg" group-title="ARGENTINA",TELEFE
 http://158.172.155.130:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b5C16BNW/telefe.jpg" group-title="ARGENTINA",ELTRECE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgSqn3By/trece.jpg" group-title="ARGENTINA",ELTRECE
 http://181.209.38.115:8000/play/a00n/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMNNVffN/espn.png" group-title="DEPORTES",ESPN AR
