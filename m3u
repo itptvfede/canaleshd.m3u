@@ -6,6 +6,9 @@ https://edge.enhdtv.com/canal9sanluis/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j1s9ts1/CRONICATV.png" group-title="NOTICIAS",CRONICATV
 http://200.59.213.66:8000/play/a00x/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARGENTINA",TN
+http://181.209.38.115:8000/play/a032/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMNNVffN/espn.png" group-title="DEPORTES",ESPN AR
 http://181.209.38.115:8000/play/a00b/index.m3u8?hl
 
@@ -113,9 +116,6 @@ http://45.173.203.73:12000/play/a0a5/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfTCpkSM/w.png" group-title="CINE",WALNER CHANNEL
 http://45.70.168.162:84/play/a00c
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARGENTINA",TN
-http://181.209.38.115:8000/play/a032/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="ARGENTINA",AMERICATV AR
 http://181.115.239.66:8000/play/a00i/index.m3u8
