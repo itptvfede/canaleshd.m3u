@@ -30,6 +30,9 @@ http://45.70.168.162:84/play/a00a/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NdqNKDdr/turbo.png" group-title="CULTURA",DISCOVERY TURBO
 http://45.70.168.162:84/play/a016/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA",HISTORY
+http://45.70.168.162:84/play/a003/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMNNVffN/espn.png" group-title="DEPORTES",ESPN AR
 http://181.209.38.115:8000/play/a00b/index.m3u8?hl
 
@@ -238,9 +241,6 @@ http://200.60.124.25:8000/play/a0ks/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n367mcx/TELEFE.jpg" group-title="VARIOS",TELEFE
 http://158.172.155.130:8000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA",HISTORY
-http://38.224.175.2:8000/play/a068/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA",HISTORY 2
 http://38.224.175.2:8000/play/a0tk/index.m3u8?hl
