@@ -46,7 +46,7 @@ http://45.181.120.147:9800/play/109/index.m3u8?hl
 http://181.209.38.115:8000/play/a00j/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HLJm8bM2/espn-premiym.png" group-title="EVENTOS",ESPN PREMIUM
-http://143.0.67.56:8000/play/a078/index.m3u8?hl
+http://181.209.38.115:8000/play/a00f/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39TcvQRb/tigo-sports.png" group-title="EVENTOS",TIGO SPOTTS
 http://45.5.117.57:5550/play/a03a/index.m3u8
