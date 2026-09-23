@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",CANAL 
-http://45.172.92.111:8000/play/a04a/index.m3u8
+http://45.172.92.111:8000/play/a0kw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="LOCALES",CANAL 9 SAN LUIS
 https://edge.enhdtv.com/canal9sanluis/index.m3u8
