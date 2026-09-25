@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FOX SPORTS 1
+http://181.209.38.115:8000/play/a00g/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FMH KIDS
 http://45.181.120.147:9800/play/081/index.m3u8?hl
