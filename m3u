@@ -226,8 +226,9 @@ http://45.181.120.147:9800/play/112
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrphKtj6/LOVE.jpg" group-title="CULTURA",love nature
 http://45.173.203.73:12000/play/a0g7/index.m3u8?hl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXdq6KSv/DT.jpg" group-title="CULTURA",DISCOVERY THEATER 3
-http://45.173.231.22:8000/play/a06k/index.m3u8?hl
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXdq6KSv/DT.jpg" group-title="CULTURA",DISCOVERY THEATER 33
+http://181.209.38.115:8000/play/a02k/index.m3u8?hl
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="24/7",TNT SPORTS PREMIUM
 http://209.14.98.45:8000/play/a0x5/index.mpd
