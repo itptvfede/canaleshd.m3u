@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",DISNEY 1
-http://miotv.cc:8080/OFEwZngwMkl6bGpNWDVRakpiTkJDeFJ6b1V5Z0VjVUJlK1Jzb2Fiamsrcz0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FX  
+http://181.225.190.242:8000/play/a01v
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FOX SPORTS 1
 http://181.209.38.115:8000/play/a00g/index.m3u8?hl
