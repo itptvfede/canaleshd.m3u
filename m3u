@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",EVENTO DE PRUEBA
-https://ewvz.fubo18.com/tntsports/mono.m3u8?token=84291e376bd9bad798301558eac73319e1825a80-cb-1790906620-1790888620
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FX  
 http://181.224.255.210:8001/play/a0ge/index.m3u8
 
