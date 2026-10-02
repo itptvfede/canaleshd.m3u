@@ -1,9 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j1s9ts1/CRONICATV.png" group-title="ARG NOTICIAS",CRONICATV
+http://200.59.213.66:8000/play/a00x/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0xr0LVc/TYC.jpg" group-title="ARG DEPORTES",TYC
 http://45.172.92.111:8000/play/a0kw/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv3h0t33/DSPORTS.png" group-title="ARG DEPORTES",DIRECTV SPORTS 
 http://181.209.87.157:8000/play/a0dl/index.m3u8
@@ -32,8 +33,7 @@ http://45.181.120.147:9800/play/081/index.m3u8?hl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="LOCALES",CANAL 9 SAN LUIS
 https://edge.enhdtv.com/canal9sanluis/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j1s9ts1/CRONICATV.png" group-title="NOTICIAS",CRONICATV
-http://200.59.213.66:8000/play/a00x/index.m3u8?hl
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0WFp7XC/c5n.jpg" group-title="NOTICIAS",C5N
 http://181.209.38.115:8000/play/a03e/index.m3u8?hl
