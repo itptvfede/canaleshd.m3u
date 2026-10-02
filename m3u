@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="XXX",VENUS
+http://181.119.215.61:8000/play/a02u/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE",CINEMAX
 http://181.209.87.156:8000/play/a08r/index.m3u8
 
