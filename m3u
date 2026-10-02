@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="ARG DEPORTES",CANAL 
+
+#EXTINF:-1 tvg-logo="https://ibb.co/xK92GfNN" group-title="ARG DEPORTES",TYC
 http://45.172.92.111:8000/play/a0kw/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pv3h0t33/DSPORTS.png" group-title="ARG DEPORTES",DIRECTV SPORTS 
 http://181.209.87.157:8000/play/a0dl/index.m3u8
