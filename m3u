@@ -1,12 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE",CINEMAX
+http://181.209.87.156:8000/play/a08r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
+http://181.209.87.156:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FX  
 http://181.224.255.210:8001/play/a0ge/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY2
-http://181.209.87.156:8000/play/a07p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FOX SPORTS 1
 http://181.209.38.115:8000/play/a00g/index.m3u8?hl
