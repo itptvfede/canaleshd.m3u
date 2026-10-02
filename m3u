@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
-http://201.190.41.246:8000/play/a00a/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FX  
 http://181.224.255.210:8001/play/a0ge/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
+http://181.119.99.245:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH9gfpV5/canal9.jpg" group-title="PRUEBA",FOX SPORTS 1
 http://181.209.38.115:8000/play/a00g/index.m3u8?hl
