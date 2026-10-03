@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n9gDdxZ/arg12.jpg" group-title="ARG NOTICIAS",CANAL 26 NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhmjHGY/canal26.png" group-title="ARG NOTICIAS",CANAL 26 NOTICIAS
 http://190.7.19.197:9000/play/a042/index.m3u8
 
 
