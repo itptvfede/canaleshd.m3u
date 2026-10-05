@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvbZ0D59/golden.png" group-title="CINE",GOLDEN 00000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvbZ0D59/golden.png" group-title="CINE",GOLDEN 000
 http://181.224.255.210:8001/play/a0qg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY 000000
