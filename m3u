@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY 00000
+http://181.78.79.183:9000/play/a099
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgSqn3By/trece.jpg" group-title="ARGENTINA",ELTRECE
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
