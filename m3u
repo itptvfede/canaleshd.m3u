@@ -1,8 +1,8 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="EVENTO MESSI",EVENTO ESPECIAL 
 http://190.7.19.197:9000/play/a04w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvbZ0D59/golden.png" group-title="CINE",GOLDEN 000
 http://181.224.255.210:8001/play/a0qg/index.m3u8
