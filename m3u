@@ -1,8 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="EVENTO MESSI",EVENTO ESPECIAL 2
+https://telefeb.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/41e296d0-20fd-4094-8bb0-e67f34b1ea46:SCL2/variant/27d892eda46db8ff6803150f828bc30a/bandwidth/1491534.m3u8?_Expires=1791349486&_Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90ZWxlZmViLmNkbi5tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXNlY3VyZS82YTAyNDY4NGZkNGNhNmE5MzhmM2ExMTgvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTM0OTQ4Nn19fV19&_Signature=gyQhetfQDJ8xb4eXWzvv3yKJG6WHmE0WRAggGtG5Mj0hW7JZxYJnCoSewlyS80HjcM5HhDnJ~MO85h1OlYh-1~eoGiCWdvhLIcCCkqHhstQAHfkm2vwCjjqTnKS-eV8ZJ6oYM2yecGgLHWomArkDUrWfTdDtvSHAGLCnChZ8EeG8kPaFeILQURDrK9iUbcGMe1z4EKwCcp8YKW-sqKNnJus-4Ge-w0Wn6mHoMJeUlooNGN0X8jA-JKwrFut0ojqZ6iqcNSypCCwkZx~vvImTmLSpZsiPB6EJgQDNP2D-2XwWiIAOq5Yz0cATJOUtszC2muX3FgRyXrD48yw1gVSN9g__&_Key_Pair_Id=APKAICBOAD57CDQK6EDQ&aid=69dfb44d09ecc98dc876969f&uid=VMIuKTGHWcecF9rx3qGtc2PLSqHapUEg&sid=esyziwKaCkpqGhyVNFTx5Wa0B1Peo6B2&pid=JUYESiq4lBMqpVY2rCBsAyM9oL7zjgKx&pid_dvr=t7tjo3vIk8NTP73w2aq5XbIKdDNgdICv&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=HTaYdJqRAi4LQ5AHrxnPmupjXhcQAoclUagFMZ4EtDbDPruGi0jxUHWtjIAKQbUG7sakXD0HWe9&adInsertionGoogleStreamId=41e296d0-20fd-4094-8bb0-e67f34b1ea46%3ASCL2&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22JUYESiq4lBMqpVY2rCBsAyM9oL7zjgKx%22%2Csu&es=telefeb.cdn.mdstrm.com&proto=https&pz=us
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="EVENTO MESSI",EVENTO ESPECIAL 
 http://190.7.19.197:9000/play/a04w/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvbZ0D59/golden.png" group-title="CINE",GOLDEN 000
 http://181.224.255.210:8001/play/a0qg/index.m3u8
