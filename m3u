@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARG NOTICIAS",TN PRUEBA
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="EVENTO MESSI",EVENTO ESPECIAL 
 http://152.230.246.26:8000/play/a01m/index.m3u8
 
