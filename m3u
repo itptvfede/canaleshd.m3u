@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARG NOTICIAS",TN OP2
+http://200.59.214.151:8000/play/a0c2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="ARG EVENTOS",EVENTO 1
 http://181.209.87.156:8000/play/a06z/index.m3u8
 
