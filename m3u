@@ -1,9 +1,8 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",HISTORY 2
 http://45.160.12.200:8008/play/033
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="ARG EVENTOS",TNT SPORTS AR OP2
 http://200.59.214.151:8000/play/a0aw/index.m3u8
