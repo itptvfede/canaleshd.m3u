@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HnhhM5w/animal.png" group-title="CULTURA NUEVA",ANIMAL PLANET
 http://45.160.12.200:8008/play/025
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",HISTORY 2
