@@ -9,8 +9,10 @@ http://45.160.12.200:8008/play/033
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="ARG EVENTOS",TNT SPORTS AR OP2
 http://200.59.214.151:8000/play/a0aw/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrphKtj6/LOVE.jpg" group-title="CULTURA",A&E HD
 http://181.78.88.113:9800/play/a09w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="ARG EVENTOS",ESPN AR
 http://181.209.87.157:8000/play/a099/index.m3u8
