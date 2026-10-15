@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXdq6KSv/DT.jpg" group-title="CULTURA NUEVA",DISCOVERY THEATER 
+http://45.160.12.200:8008/play/037
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HnhhM5w/animal.png" group-title="CULTURA NUEVA",ANIMAL PLANET
 http://45.160.12.200:8008/play/025
 
