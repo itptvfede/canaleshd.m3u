@@ -31,11 +31,10 @@ http://200.59.214.151:8000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67QFPtwh/DTHER.jpg" group-title="CULTURA NUEVA",DISCOVERY THEATER 
 http://200.59.213.66:8000/play/a026/index.m3u8?hl
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvnRCpC4/ANIMAL-PLANET2.jpg" group-title="CULTURA NUEVA",ANIMAL PLANET
 http://200.59.214.151:8000/play/a3mf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",HISTORY 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JJjfZhF/h22.jpg" group-title="CULTURA NUEVA",HISTORY 2
 http://181.209.87.157:8000/play/a06n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA NUEVA",HISTORY 
