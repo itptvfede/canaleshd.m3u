@@ -1,9 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="CINE NUEVA",HBO FAMILY 
 http://152.230.246.26:8000/play/a01m/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE NUEVA",SONY CHANNEL 
 http://181.209.87.157:8000/play/a09c/index.m3u8
@@ -38,7 +36,7 @@ http://181.209.87.157:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA NUEVA",HISTORY 
 http://181.209.87.157:8000/play/a090/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPW5zQYx/A-E.png" group-title="CULTURA NUEVA",A&E
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0q5Z6W8/AYE.jpg" group-title="CULTURA NUEVA",A&E
 http://181.209.87.156:8000/play/a09h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrphKtj6/LOVE.jpg" group-title="CULTURA",A&E HD
