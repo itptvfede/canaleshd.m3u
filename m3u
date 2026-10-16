@@ -24,6 +24,9 @@ http://200.59.214.151:8000/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="EVENTOS HD",TYC INTERCIONAL
 http://45.181.120.147:9800/play/109/index.m3u8?hl
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhmjHGY/canal26.png" group-title="ARG NOTICIAS NUEVA",CANAL 26 NOTICIAS
+http://190.7.19.197:9000/play/a042/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n9gDdxZ/arg12.jpg" group-title="ARG NOTICIAS NUEVA",ARG12
 http://190.7.19.197:9000/play/a00o/index.m3u8
 
@@ -65,10 +68,6 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfqW0YLJ/hbofamily.png" group-title="CINE",HBO FAMILY
 http://201.190.41.246:8000/play/a00a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXhmjHGY/canal26.png" group-title="ARG NOTICIAS",CANAL 26 NOTICIAS
-http://190.7.19.197:9000/play/a042/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0WFp7XC/c5n.jpg" group-title="ARG NOTICIAS",C5N
 http://181.209.38.115:8000/play/a03e/index.m3u8?hl
