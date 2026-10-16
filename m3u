@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="CINE NUEVA",HBO FAMILY 
+http://152.230.246.26:8000/play/a01m/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYJwGKLS/sony.png" group-title="CINE NUEVA",SONY CHANNEL 
 http://181.209.87.157:8000/play/a09c/index.m3u8
 
@@ -41,9 +46,6 @@ http://181.78.88.113:9800/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARG NOTICIAS",EL CHAVO OP3
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MLbznvD/file-00000000d2a0820e98d7a7661cd732fb.png" group-title="EVENTO MESSI",EVENTO ESPECIAL 
-http://152.230.246.26:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvbZ0D59/golden.png" group-title="CINE",GOLDEN 
 http://201.190.34.254:8001/play/a017/index.m3u8?hls
