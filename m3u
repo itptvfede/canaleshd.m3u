@@ -1,9 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="NACIONALES NUEVA",AMERICATV AR
+http://181.115.239.66:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="NACIONALES NUEVA",MAGAZINE
+http://181.115.239.66:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9RTpzWg/FX.jpg" group-title="CINE NUEVA",CANAL FX
 http://181.209.87.157:8000/play/a070/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE NUEVA",CINEMAX
 http://181.209.87.156:8000/play/a08r/index.m3u8
@@ -112,12 +116,6 @@ http://181.209.38.115:8000/play/a00p/index.m3u8?hl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgSqn3By/trece.jpg" group-title="ARGENTINA",ELTRECE
 http://181.209.38.115:8000/play/a00n/index.m3u8?hl
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="ARGENTINA",AMERICATV AR
-http://181.115.239.66:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="ARGENTINA",MAGAZINE
-http://181.115.239.66:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kxn8jSLC/DCHANNEL.jpg" group-title="CULTURA",DISCOVERY CHANNEL
 http://45.70.168.162:84/play/a00a/index.m3u8?hls
