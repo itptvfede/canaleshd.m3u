@@ -1,9 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="NACIONALES NUEVA",AMERICATV AR
 http://181.115.239.66:8000/play/a00i/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHf2zgMS/CIUDAD.png" group-title="NACIONALES NUEVA",MAGAZINE
 http://181.115.239.66:8000/play/a038/index.m3u8
