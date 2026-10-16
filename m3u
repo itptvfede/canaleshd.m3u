@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="EVENTOS HD",TNT SPORTS AR 
+http://200.59.214.151:8000/play/a0aw/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="EVENTOS HD",TYC INTERCIONAL
 http://45.181.120.147:9800/play/109/index.m3u8?hl
 
@@ -24,8 +27,6 @@ http://181.209.87.157:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPW5zQYx/A-E.png" group-title="CULTURA NUEVA",A&E
 http://181.209.87.156:8000/play/a09h/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhhS1c6h/file-000000009f6c820e8508a5136becac17.png" group-title="ARG EVENTOS",TNT SPORTS AR OP2
-http://200.59.214.151:8000/play/a0aw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrphKtj6/LOVE.jpg" group-title="CULTURA",A&E HD
 http://181.78.88.113:9800/play/a09w/index.m3u8
