@@ -4,7 +4,7 @@
 http://45.160.12.200:8008/play/037
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HnhhM5w/animal.png" group-title="CULTURA NUEVA",ANIMAL PLANET
-http://45.160.12.200:8008/play/025
+http://200.59.214.151:8000/play/a3mf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",HISTORY 2
 http://181.209.87.157:8000/play/a06n/index.m3u8
