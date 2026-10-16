@@ -6,8 +6,11 @@ http://45.160.12.200:8008/play/037
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HnhhM5w/animal.png" group-title="CULTURA NUEVA",ANIMAL PLANET
 http://45.160.12.200:8008/play/025
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",HISTORY 22
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dw5V4mc3/H2.jpg" group-title="CULTURA NUEVA",HISTORY 2
 http://181.209.87.157:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mhHHz4s/history.jpg" group-title="CULTURA NUEVA",HISTORY 
+http://181.209.87.157:8000/play/a090/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPW5zQYx/A-E.png" group-title="CULTURA NUEVA",A&E
 http://181.209.87.156:8000/play/a09h/index.m3u8
