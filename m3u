@@ -1,7 +1,9 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9RTpzWg/FX.jpg" group-title="CINE NUEVA",CANAL FX
 http://181.209.87.157:8000/play/a070/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pvgs4HCc/cinemax.png" group-title="CINE NUEVA",CINEMAX
 http://181.209.87.156:8000/play/a08r/index.m3u8
