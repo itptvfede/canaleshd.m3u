@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWcLn1Dd/hbo-family.jpg" group-title="SERVER NUEVO CINE",HBO FAMILY 
+http://45.181.120.147:9800/play/091/index.m3u8?hl
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0j58rrD6/AMERICATV.jpg" group-title="NACIONALES NUEVA",AMERICATV AR
 http://181.115.239.66:8000/play/a00i/index.m3u8
 
