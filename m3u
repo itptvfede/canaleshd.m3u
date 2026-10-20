@@ -6,6 +6,9 @@ http://181.119.177.253:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWcLn1Dd/hbo-family.jpg" group-title="SERVER NUEVO CINE",GOLDEN
 http://181.119.177.253:8000/play/a03g/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5C16BNW/telefe.jpg" group-title="NACIONALES NUEVA",TELEFE
+http://181.209.87.154:8000/play/a08a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgSqn3By/trece.jpg" group-title="NACIONALES NUEVA",ELTRECE
 http://181.209.87.154:8000/play/a07b/index.m3u8
 
