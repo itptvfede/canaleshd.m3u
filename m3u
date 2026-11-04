@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWcLn1Dd/hbo-family.jpg" group-title="SERVER NUEVO CINE",GOLDEN OP2
+http://152.230.246.26:8000/play/a03b/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWcLn1Dd/hbo-family.jpg" group-title="SERVER NUEVO CINE",HBO2
 http://181.209.87.156:8000/play/a07o/index.m3u8
 
