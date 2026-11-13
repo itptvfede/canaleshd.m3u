@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7x0T035s/GOLDEN2.jpg" group-title="SERVER NUEVO CINE",TELEFE
+http://miotv.cc:8080/OFEwZngwMkl6bGpNWDVRakpiTkJDMitZeDFPOFJSNHhyZlUzYXpDUVNqQT0
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7x0T035s/GOLDEN2.jpg" group-title="SERVER NUEVO CINE",CINEMAX
 http://miotv.cc:8080/OFEwZngwMkl6bGpNWDVRakpiTkJDd2ZmYmVFTkdFV3VzbzhCY3kzVVJlQT0
 
