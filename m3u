@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgG00X3Z/tn.jpg" group-title="ARG NOTICIAS NUEVA",TN 
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/cef99714-eafa-4265-baf4-f545d31cde28:SCL2/variant/21bfa989d6bc98071e9499200a8ec083/bandwidth/1097800.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWcLn1Dd/hbo-family.jpg" group-title="CINE NUEVA",HBO FAMILY2 
 http://181.115.239.66:8000/play/a04v/index.m3u8?hls
 
